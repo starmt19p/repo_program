@@ -1,0 +1,14 @@
+{
+  "series": [
+    {
+      "title": "One Piece",
+      "source": {
+        "type": "mangaupdates",
+        "series_id": 93
+      },
+      "last_read": 1090,
+      "last_released": 1091
+    }
+  ],
+  "updated_at": "2025-08-18T00:00:00Z"
+}
