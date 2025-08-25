@@ -1,2 +1,0 @@
-Clipboard Data: 
-time.sleep(10)
