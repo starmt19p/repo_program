@@ -198,26 +198,18 @@ Connexions actives
   TCP    192.168.1.200:139      Starmt19:0             LISTENING
   TCP    192.168.1.200:49412    98.66.133.184:https    ESTABLISHED
   TCP    192.168.1.200:59864    lb-140-82-112-26-iad:https  ESTABLISHED
-  TCP    192.168.1.200:60046    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60047    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60048    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60073    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60074    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60082    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60083    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60084    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60111    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60112    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60113    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60131    52.182.141.63:https    ESTABLISHED
-  TCP    192.168.1.200:60144    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60145    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60146    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60150    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60151    192.168.1.254:domain   TIME_WAIT
-  TCP    192.168.1.200:60154    13.107.5.93:https      ESTABLISHED
-  TCP    192.168.1.200:60155    13.107.5.93:https      ESTABLISHED
-  TCP    192.168.1.200:60157    52.178.17.234:https    ESTABLISHED
+  TCP    192.168.1.200:60271    20.42.72.131:https     ESTABLISHED
+  TCP    192.168.1.200:60338    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60339    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60344    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60345    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60346    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60349    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60350    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60351    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60352    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60353    192.168.1.254:domain   TIME_WAIT
+  TCP    192.168.1.200:60354    192.168.1.254:domain   TIME_WAIT
   TCP    [::]:135               Starmt19:0             LISTENING
   TCP    [::]:445               Starmt19:0             LISTENING
   TCP    [::]:4875              Starmt19:0             LISTENING
@@ -229,24 +221,42 @@ Connexions actives
   TCP    [::]:49668             Starmt19:0             LISTENING
   TCP    [::]:49670             Starmt19:0             LISTENING
   TCP    [::1]:49669            Starmt19:0             LISTENING
-  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:59568  wn-in-f188:5228        ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:59568  wn-in-xbc:5228         ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:59693  [2606:4700:4400::6812:2715]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60103  par10s42-in-x05:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60162  [2620:1ec:bdf::76]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60175  [2606:4700:4400::6812:202f]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60299  par21s23-in-x05:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60319  [2606:4700::6812:1737]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60368  [2620:1ec:bdf::76]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60372  par21s23-in-x05:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60376  [2620:1ec:33::12]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60377  g2a02-26f0-0680-009e-0000-0000-5f64-8569:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60378  [2620:1ec:33::12]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60379  whatsapp-chatd-edge6-shv-03-cdg4:http  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60380  whatsapp-cdn6-shv-01-cdg4:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60381  whatsapp-cdn6-shv-02-lhr6:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60382  whatsapp-cdn6-shv-03-cdg4:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60383  whatsapp-cdn6-shv-02-lhr8:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60384  whatsapp-cdn6-shv-01-lhr8:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60385  whatsapp-cdn6-shv-02-cdg4:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60386  whatsapp-cdn6-shv-01-lhr6:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60387  whatsapp-cdn6-shv-03-cdg4:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60388  g2a02-26f0-0680-009e-0000-0000-5f64-8569:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:f5a4:e648:acbb:8228]:60389  g2a02-26f0-0680-0003-0000-0000-5c7a-a6c4:https  ESTABLISHED
   UDP    0.0.0.0:5050           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49665          0.0.32.10:443          
   UDP    0.0.0.0:51869          *:*                    
-  UDP    0.0.0.0:55128          0.0.32.10:443          
   UDP    0.0.0.0:55779          *:*                    
-  UDP    0.0.0.0:58645          *:*                    
+  UDP    0.0.0.0:56321          0.0.32.10:443          
   UDP    0.0.0.0:60004          *:*                    
+  UDP    0.0.0.0:60246          0.0.32.10:443          
   UDP    0.0.0.0:60460          0.0.32.10:443          
+  UDP    0.0.0.0:62833          *:*                    
   UDP    0.0.0.0:63134          *:*                    
+  UDP    0.0.0.0:65254          96.16.249.6:443        
   UDP    127.0.0.1:1900         *:*                    
   UDP    127.0.0.1:49664        127.0.0.1:49664        
   UDP    127.0.0.1:50092        *:*                    
@@ -258,13 +268,16 @@ Connexions actives
   UDP    [::]:5353              *:*                    
   UDP    [::]:5353              *:*                    
   UDP    [::]:5355              *:*                    
+  UDP    [::]:49665             [2a00:1450:4007:819::200a]:443  
   UDP    [::]:51869             *:*                    
-  UDP    [::]:55128             [2a00:1450:4007:813::200a]:443  
   UDP    [::]:55779             *:*                    
-  UDP    [::]:58645             *:*                    
+  UDP    [::]:56321             [2a00:1450:4007:81a::200a]:443  
   UDP    [::]:60004             *:*                    
+  UDP    [::]:60246             [2a00:1450:4007:813::200a]:443  
   UDP    [::]:60460             [2a00:1450:4007:819::200a]:443  
+  UDP    [::]:62833             *:*                    
   UDP    [::]:63134             *:*                    
+  UDP    [::]:65254             [2a02:26f0:9100:11::6010:f906]:443  
   UDP    [::1]:1900             *:*                    
   UDP    [::1]:50090            *:*                    
   UDP    [fe80::34f2:a2bb:7bd1:d4bc%20]:1900  *:*                    
