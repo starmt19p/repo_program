@@ -191,12 +191,23 @@ Connexions actives
   TCP    0.0.0.0:49668          Starmt19:0             LISTENING
   TCP    0.0.0.0:49670          Starmt19:0             LISTENING
   TCP    192.168.1.200:139      Starmt19:0             LISTENING
-  TCP    192.168.1.200:50888    lb-140-82-113-26-iad:https  ESTABLISHED
-  TCP    192.168.1.200:51016    52.182.143.210:https   TIME_WAIT
-  TCP    192.168.1.200:51018    13.107.5.93:https      TIME_WAIT
-  TCP    192.168.1.200:51019    13.107.5.93:https      TIME_WAIT
-  TCP    192.168.1.200:51029    20.189.173.3:https     ESTABLISHED
-  TCP    192.168.1.200:51034    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.200:51246    185.26.182.111:https   ESTABLISHED
+  TCP    192.168.1.200:51251    vip01:https            ESTABLISHED
+  TCP    192.168.1.200:51252    82.145.216.59:https    ESTABLISHED
+  TCP    192.168.1.200:51254    185.26.182.112:https   ESTABLISHED
+  TCP    192.168.1.200:51255    vip04:https            ESTABLISHED
+  TCP    192.168.1.200:51256    185.26.182.111:https   ESTABLISHED
+  TCP    192.168.1.200:51257    20.190.159.64:https    TIME_WAIT
+  TCP    192.168.1.200:51259    172.66.47.179:https    ESTABLISHED
+  TCP    192.168.1.200:51260    20.190.159.64:https    TIME_WAIT
+  TCP    192.168.1.200:51283    whatsapp-chatd-edge-shv-01-cdg4:http  ESTABLISHED
+  TCP    192.168.1.200:51291    20.54.232.160:https    ESTABLISHED
+  TCP    192.168.1.200:51293    20.190.159.64:https    ESTABLISHED
+  TCP    192.168.1.200:51294    lb-140-82-121-4-fra:https  ESTABLISHED
+  TCP    192.168.1.200:51295    lb-140-82-114-26-iad:https  ESTABLISHED
+  TCP    192.168.1.200:51302    20.189.173.13:https    ESTABLISHED
+  TCP    192.168.1.200:51303    20.189.173.13:https    ESTABLISHED
+  TCP    192.168.1.200:51304    lb-140-82-121-5-fra:https  ESTABLISHED
   TCP    [::]:135               Starmt19:0             LISTENING
   TCP    [::]:445               Starmt19:0             LISTENING
   TCP    [::]:4221              Starmt19:0             LISTENING
@@ -207,31 +218,48 @@ Connexions actives
   TCP    [::]:49668             Starmt19:0             LISTENING
   TCP    [::]:49670             Starmt19:0             LISTENING
   TCP    [::1]:49669            Starmt19:0             LISTENING
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49408  [2603:1020:805:3::401]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49917  wb-in-f188:5228        ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50303  [2606:50c0:8003::154]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51005  par21s06-in-x05:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51006  [2606:4700:4400::ac40:9bd1]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51008  whatsapp-cdn6-shv-01-lhr6:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51009  whatsapp-cdn6-shv-03-cdg4:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51010  whatsapp-cdn6-shv-02-cdg4:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51011  whatsapp-cdn6-shv-01-cdg4:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51012  whatsapp-cdn6-shv-03-cdg4:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51013  whatsapp-cdn6-shv-02-lhr6:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51014  whatsapp-cdn6-shv-01-lhr8:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51015  whatsapp-cdn6-shv-02-lhr8:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51058  [2001:4c28:1:430:82:145:216:16]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51078  [2606:4700:4400::ac40:94eb]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51084  g2a02-26f0-0680-009e-0000-0000-5f64-8561:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49409  [2603:1020:805:3::401]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51247  [2620:1ec:bdf::76]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51248  [2620:1ec:bdf::76]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51249  [2620:1ec:bdf::76]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51253  [2a04:4e42:1d::684]:http  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51258  [2a04:4e42:6a::684]:http  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51263  wh-in-f188:https       ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51264  g2a02-26f0-9100-0028-0000-0000-17c0-ed9d:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51266  [2620:1ec:27::cafe:2154]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51269  eu-autoupdate:https    TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51270  eu-autoupdate:https    TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51271  [2620:1ec:27::cafe:2154]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51273  par21s20-in-x05:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51274  par10s39-in-x0e:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51276  [2606:4700:4400::6812:202f]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51280  whatsapp-chatd-edge6-shv-03-cdg4:5222  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51282  [2606:4700:4400::6812:2715]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51284  whatsapp-cdn6-shv-02-cdg4:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51285  whatsapp-cdn6-shv-01-cdg4:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51286  whatsapp-cdn6-shv-03-cdg4:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51287  whatsapp-cdn6-shv-03-cdg4:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51288  whatsapp-cdn6-shv-01-ams4:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51289  whatsapp-cdn6-shv-01-ams2:https  CLOSE_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51308  whatsapp-chatd-edge6-shv-03-cdg4:http  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51309  [2620:1ec:33:1::12]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51310  [2620:1ec:33:1::12]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51311  g2a02-26f0-0680-009e-0000-0000-5f64-8562:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51312  g2a02-26f0-0680-009e-0000-0000-5f64-8562:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51313  g2a02-26f0-9100-058b-0000-0000-0000-21cc:http  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51314  par10s39-in-x03:http   ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51315  [2a04:4e42:6a::684]:http  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51316  g2a02-26f0-0680-0003-0000-0000-5c7a-a6c4:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51319  eu:https               ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51322  [2606:50c0:8003::154]:https  ESTABLISHED
   UDP    0.0.0.0:5050           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5355           *:*                    
-  UDP    0.0.0.0:52737          0.0.32.10:443          
-  UDP    0.0.0.0:54934          *:*                    
-  UDP    0.0.0.0:59055          0.0.32.10:443          
-  UDP    0.0.0.0:60271          0.0.32.3:443           
+  UDP    0.0.0.0:49711          96.16.249.59:443       
+  UDP    0.0.0.0:50342          0.0.32.10:443          
+  UDP    0.0.0.0:58042          92.122.166.196:443     
   UDP    127.0.0.1:1900         *:*                    
   UDP    127.0.0.1:49664        127.0.0.1:49664        
   UDP    127.0.0.1:61838        *:*                    
@@ -242,10 +270,9 @@ Connexions actives
   UDP    [::]:5353              *:*                    
   UDP    [::]:5353              *:*                    
   UDP    [::]:5355              *:*                    
-  UDP    [::]:52737             [2a00:1450:4007:813::200a]:443  
-  UDP    [::]:54934             *:*                    
-  UDP    [::]:59055             [2a00:1450:4007:813::200a]:443  
-  UDP    [::]:60271             [2a00:1450:4007:818::2003]:443  
+  UDP    [::]:49711             [2a02:26f0:9100:11::6010:f93b]:443  
+  UDP    [::]:50342             [2a00:1450:4007:810::200a]:443  
+  UDP    [::]:58042             [2a02:26f0:680:3::5c7a:a6c4]:443  
   UDP    [::1]:1900             *:*                    
   UDP    [::1]:61836            *:*                    
   UDP    [fe80::34f2:a2bb:7bd1:d4bc%20]:1900  *:*                    
