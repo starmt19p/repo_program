@@ -1305,3 +1305,1307 @@ DISPLAY_NAME: Service utilisateur de notifications Push Windows_a5b79
         WAIT_HINT          : 0x0
 Public IP Address: 82.65.67.118
 Private IP Address: 192.168.1.142
+
+Nom d'hìte:                                 STARMT
+Nom du systäme d'exploitation:              Microsoft Windows 11 Famille
+Version du systäme d'exploitation:          10.0.26100 N/A build 26100
+Fabricant du systäme d'exploitation:        Microsoft Corporation
+Configuration du systäme d'exploitation:    Station de travail autonome
+Type de build du systäme d'exploitation:    Multiprocessor Free
+PropriÇtaire enregistrÇ:                    martin.pouzaud04@gmail.com
+Organisation enregistrÇe:                   N/A
+ID du produit:                              00325-80000-00000-AAOEM
+Date d'installation originale:              22/07/2025, 21:14:18
+Heure de dÇmarrage du systäme:              26/08/2025, 15:23:45
+Fabricant du systäme:                       Micro-Star International Co., Ltd.
+Modäle du systäme:                          MS-7D22
+Type du systäme:                            x64-based PC
+Processeur(s):                              1 processeur(s) installÇ(s).
+                                            [01]ˇ: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2904 MHz
+Version du BIOS:                            American Megatrends International, LLC. 3.D0, 08/07/2024
+RÇpertoire Windows:                         C:\WINDOWS
+RÇpertoire systäme:                         C:\WINDOWS\system32
+PÇriphÇrique de dÇmarrage:                  \Device\HarddiskVolume1
+Paramätres rÇgionaux systäme:               fr;Franáais (France)
+Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+MÇmoire physique totale:                    8ˇ016 Mo
+MÇmoire physique disponible:                2ˇ116 Mo
+MÇmoire virtuelleˇ: taille maximale:        23ˇ376 Mo
+MÇmoire virtuelleˇ: disponible:             14ˇ438 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 8ˇ938 Mo
+Emplacement(s) de fichier d'Çchange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\STARMT
+Correctif(s) logiciel(s):                   5 Corrections installÇes.
+                                            [01]: KB5056579
+                                            [02]: KB5050575
+                                            [03]: KB5059093
+                                            [04]: KB5063878
+                                            [05]: KB5065381
+Carte(s) rÇseau:                            2 carte(s) rÇseau installÇe(s).
+                                            [01]: TP-Link Wireless USB Adapter
+                                                  Nom de la connexionˇ: Wi-Fi
+                                                  DHCP activÇˇ:         Oui
+                                                  Serveur DHCPˇ:        192.168.1.254
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.142
+                                                  [02]: fe80::de01:d3f0:408:ff1
+                                                  [03]: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239
+                                                  [04]: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62
+                                            [02]: Intel(R) Ethernet Connection (10) I219-V
+                                                  Nom de la connexionˇ: Ethernet
+                                                  êtatˇ:                MÇdia dÇconnectÇ
+SÇcuritÇ basÇe sur la virtualisation:       êtatˇ: Non activÇ
+                                            App Control for Business policy: AppliquÇ
+                                            App Control for Business user mode policy: Audit
+                                            FonctionnalitÇs de sÇcuritÇ activÇesˇ:
+Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuelˇ: Oui
+                                            Virtualisation activÇe dans le microprogrammeˇ: Oui
+                                            Traduction d'adresse de second niveauˇ: Oui
+                                            PrÇvention de l'exÇcution des donnÇes disponibleˇ: Oui
+
+Nom de l'image                 PID Nom de la sessio NumÇro de s Utilisation 
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 Ko
+System                           4 Services                   0    15ˇ244 Ko
+Registry                       224 Services                   0    39ˇ172 Ko
+smss.exe                       704 Services                   0       364 Ko
+csrss.exe                      796 Services                   0     4ˇ092 Ko
+wininit.exe                   1076 Services                   0     3ˇ532 Ko
+csrss.exe                     1084 Console                    1     4ˇ296 Ko
+winlogon.exe                  1144 Console                    1     6ˇ408 Ko
+services.exe                  1224 Services                   0    10ˇ792 Ko
+lsass.exe                     1244 Services                   0    19ˇ464 Ko
+svchost.exe                   1380 Services                   0    22ˇ620 Ko
+fontdrvhost.exe               1412 Services                   0     1ˇ512 Ko
+fontdrvhost.exe               1420 Console                    1     3ˇ164 Ko
+svchost.exe                   1504 Services                   0    14ˇ532 Ko
+svchost.exe                   1560 Services                   0     5ˇ992 Ko
+dwm.exe                       1640 Console                    1   381ˇ792 Ko
+svchost.exe                   1720 Services                   0    20ˇ512 Ko
+svchost.exe                   1848 Services                   0    10ˇ000 Ko
+svchost.exe                   1884 Services                   0    11ˇ936 Ko
+svchost.exe                   1904 Services                   0    12ˇ336 Ko
+svchost.exe                   1936 Services                   0     7ˇ332 Ko
+IntelCpHDCPSvc.exe            1960 Services                   0     5ˇ640 Ko
+svchost.exe                   1996 Services                   0     2ˇ568 Ko
+svchost.exe                   1088 Services                   0     7ˇ440 Ko
+svchost.exe                   1320 Services                   0     4ˇ980 Ko
+svchost.exe                   2112 Services                   0    12ˇ500 Ko
+IntelCpHeciSvc.exe            2120 Services                   0     3ˇ600 Ko
+svchost.exe                   2156 Services                   0    10ˇ504 Ko
+svchost.exe                   2196 Services                   0     4ˇ244 Ko
+svchost.exe                   2336 Services                   0     3ˇ340 Ko
+NVDisplay.Container.exe       2420 Services                   0    18ˇ624 Ko
+svchost.exe                   2540 Services                   0     8ˇ932 Ko
+svchost.exe                   2572 Services                   0    13ˇ108 Ko
+svchost.exe                   2624 Services                   0     4ˇ824 Ko
+svchost.exe                   2632 Services                   0    11ˇ780 Ko
+svchost.exe                   2640 Services                   0     7ˇ636 Ko
+Memory Compression            2808 Services                   0   167ˇ864 Ko
+svchost.exe                   2852 Services                   0     9ˇ024 Ko
+igfxCUIService.exe            2936 Services                   0     4ˇ880 Ko
+svchost.exe                   2972 Services                   0     3ˇ992 Ko
+svchost.exe                   2980 Services                   0     5ˇ740 Ko
+svchost.exe                   3068 Services                   0    11ˇ848 Ko
+svchost.exe                   2564 Services                   0     6ˇ680 Ko
+svchost.exe                   3084 Services                   0     4ˇ072 Ko
+svchost.exe                   3092 Services                   0     4ˇ176 Ko
+svchost.exe                   3232 Services                   0     5ˇ020 Ko
+svchost.exe                   3260 Services                   0    21ˇ296 Ko
+svchost.exe                   3356 Services                   0     6ˇ156 Ko
+svchost.exe                   3556 Services                   0    13ˇ864 Ko
+svchost.exe                   3596 Services                   0     6ˇ048 Ko
+svchost.exe                   3644 Services                   0     3ˇ756 Ko
+spoolsv.exe                   3704 Services                   0     7ˇ416 Ko
+svchost.exe                   3764 Services                   0    14ˇ220 Ko
+NVDisplay.Container.exe       3812 Console                    1    26ˇ360 Ko
+svchost.exe                   3840 Services                   0     4ˇ188 Ko
+svchost.exe                   3876 Services                   0    21ˇ448 Ko
+svchost.exe                   4132 Services                   0    46ˇ436 Ko
+OneApp.IGCC.WinService.ex     4144 Services                   0    24ˇ620 Ko
+svchost.exe                   4152 Services                   0     6ˇ816 Ko
+svchost.exe                   4168 Services                   0     2ˇ496 Ko
+svchost.exe                   4176 Services                   0     3ˇ928 Ko
+svchost.exe                   4184 Services                   0    17ˇ936 Ko
+svchost.exe                   4196 Services                   0    18ˇ992 Ko
+jhi_service.exe               4204 Services                   0     2ˇ524 Ko
+RtkAudUService64.exe          4216 Services                   0     8ˇ404 Ko
+WMIRegistrationService.ex     4236 Services                   0     6ˇ076 Ko
+MpDefenderCoreService.exe     4260 Services                   0    22ˇ428 Ko
+MsMpEng.exe                   4272 Services                   0   174ˇ664 Ko
+svchost.exe                   4576 Services                   0     7ˇ932 Ko
+WmiPrvSE.exe                  4920 Services                   0    12ˇ972 Ko
+svchost.exe                   5436 Services                   0    15ˇ536 Ko
+svchost.exe                   5444 Services                   0    48ˇ568 Ko
+gamingservices.exe            5540 Services                   0    33ˇ512 Ko
+gamingservicesnet.exe         5548 Services                   0     4ˇ088 Ko
+AggregatorHost.exe            5244 Services                   0     6ˇ544 Ko
+svchost.exe                   3400 Services                   0     6ˇ648 Ko
+svchost.exe                   6292 Services                   0     5ˇ088 Ko
+svchost.exe                   6352 Services                   0     5ˇ836 Ko
+svchost.exe                   6672 Services                   0     2ˇ108 Ko
+svchost.exe                   5752 Services                   0     7ˇ920 Ko
+svchost.exe                   6620 Services                   0    36ˇ840 Ko
+svchost.exe                   7236 Services                   0     2ˇ816 Ko
+svchost.exe                   7468 Services                   0     2ˇ540 Ko
+sihost.exe                    7692 Console                    1    27ˇ844 Ko
+svchost.exe                   7772 Console                    1    24ˇ504 Ko
+PresentationFontCache.exe     7792 Services                   0     6ˇ256 Ko
+svchost.exe                   7844 Console                    1     8ˇ596 Ko
+svchost.exe                   7880 Console                    1    21ˇ852 Ko
+taskhostw.exe                 7932 Console                    1    11ˇ964 Ko
+svchost.exe                   8008 Services                   0    14ˇ912 Ko
+svchost.exe                   6156 Services                   0    12ˇ444 Ko
+igfxEM.exe                    7424 Console                    1     6ˇ800 Ko
+explorer.exe                  7556 Console                    1   304ˇ440 Ko
+ShellHost.exe                 7660 Console                    1    15ˇ912 Ko
+svchost.exe                   8400 Console                    1    14ˇ540 Ko
+svchost.exe                   8480 Services                   0    13ˇ508 Ko
+SearchHost.exe                8824 Console                    1    38ˇ944 Ko
+StartMenuExperienceHost.e     8832 Console                    1    69ˇ716 Ko
+UserOOBEBroker.exe            9060 Console                    1     4ˇ092 Ko
+RuntimeBroker.exe             9088 Console                    1    20ˇ464 Ko
+svchost.exe                   9096 Console                    1     7ˇ720 Ko
+SearchIndexer.exe             8188 Services                   0    32ˇ180 Ko
+msedgewebview2.exe            9592 Console                    1    42ˇ660 Ko
+msedgewebview2.exe            9644 Console                    1     3ˇ460 Ko
+msedgewebview2.exe            9828 Console                    1    18ˇ464 Ko
+msedgewebview2.exe            9856 Console                    1    22ˇ812 Ko
+msedgewebview2.exe            9936 Console                    1     7ˇ184 Ko
+msedgewebview2.exe           10100 Console                    1    31ˇ216 Ko
+backgroundTaskHost.exe       10576 Console                    1     2ˇ596 Ko
+ctfmon.exe                   10308 Console                    1    33ˇ868 Ko
+PhoneExperienceHost.exe      10832 Console                    1   150ˇ292 Ko
+smartscreen.exe               5976 Console                    1     9ˇ464 Ko
+RtkAudUService64.exe          5896 Console                    1     8ˇ696 Ko
+opera.exe                     2664 Console                    1   229ˇ756 Ko
+svchost.exe                   2680 Services                   0    11ˇ184 Ko
+opera_crashreporter.exe       3248 Console                    1     7ˇ236 Ko
+opera.exe                     1944 Console                    1   187ˇ680 Ko
+opera.exe                     1900 Console                    1    49ˇ092 Ko
+opera.exe                    11292 Console                    1    20ˇ320 Ko
+opera.exe                    11392 Console                    1    89ˇ276 Ko
+opera.exe                    11424 Console                    1    50ˇ020 Ko
+opera.exe                    11472 Console                    1    81ˇ156 Ko
+opera.exe                    11736 Console                    1   101ˇ972 Ko
+opera.exe                    11752 Console                    1   112ˇ264 Ko
+opera.exe                    11840 Console                    1    65ˇ228 Ko
+opera.exe                    12080 Console                    1    64ˇ512 Ko
+opera.exe                    12124 Console                    1    84ˇ940 Ko
+opera.exe                    12164 Console                    1    64ˇ624 Ko
+opera.exe                    11744 Console                    1    20ˇ872 Ko
+opera.exe                    12352 Console                    1    79ˇ296 Ko
+opera.exe                    13068 Console                    1    51ˇ936 Ko
+opera.exe                    13216 Console                    1   119ˇ676 Ko
+opera.exe                     7404 Console                    1   111ˇ072 Ko
+opera.exe                    12920 Console                    1    92ˇ520 Ko
+opera.exe                    13024 Console                    1   201ˇ860 Ko
+SecurityHealthService.exe    14124 Services                   0    26ˇ340 Ko
+MpCmdRun.exe                 14264 Services                   0    16ˇ640 Ko
+svchost.exe                  13660 Services                   0    11ˇ128 Ko
+svchost.exe                  13776 Services                   0    23ˇ428 Ko
+svchost.exe                   3444 Services                   0    16ˇ352 Ko
+svchost.exe                  11000 Services                   0    16ˇ856 Ko
+svchost.exe                  10772 Services                   0    13ˇ632 Ko
+svchost.exe                  10564 Console                    1    14ˇ980 Ko
+opera.exe                     5524 Console                    1   243ˇ060 Ko
+opera.exe                    14304 Console                    1    29ˇ960 Ko
+SystemSettings.exe            7520 Console                    1   124ˇ672 Ko
+ApplicationFrameHost.exe      3604 Console                    1    61ˇ016 Ko
+svchost.exe                   9976 Console                    1    16ˇ444 Ko
+svchost.exe                   2928 Services                   0     8ˇ780 Ko
+svchost.exe                  13424 Services                   0    15ˇ732 Ko
+svchost.exe                  14284 Services                   0    15ˇ096 Ko
+svchost.exe                  13472 Services                   0    17ˇ248 Ko
+svchost.exe                   2768 Services                   0     8ˇ552 Ko
+svchost.exe                   2532 Services                   0     9ˇ708 Ko
+svchost.exe                  12768 Services                   0    15ˇ972 Ko
+audiodg.exe                   8064 Services                   0    19ˇ256 Ko
+Discord.exe                   2660 Console                    1   156ˇ380 Ko
+Discord.exe                  11072 Console                    1    15ˇ968 Ko
+Discord.exe                  10868 Console                    1   203ˇ232 Ko
+Discord.exe                  11144 Console                    1    35ˇ380 Ko
+Discord.exe                   7248 Console                    1   413ˇ240 Ko
+Discord.exe                   4660 Console                    1    36ˇ028 Ko
+RuntimeBroker.exe            13016 Console                    1    32ˇ520 Ko
+StoreDesktopExtension.exe     2272 Console                    1    32ˇ672 Ko
+WinStore.App.exe              6032 Console                    1   101ˇ024 Ko
+Taskmgr.exe                   7824 Console                    1   157ˇ776 Ko
+opera.exe                     3136 Console                    1    20ˇ336 Ko
+opera.exe                     2716 Console                    1   154ˇ404 Ko
+opera.exe                    14832 Console                    1    39ˇ108 Ko
+svchost.exe                   7748 Services                   0    12ˇ188 Ko
+WmiPrvSE.exe                  6376 Services                   0    23ˇ480 Ko
+svchost.exe                   7652 Services                   0    33ˇ272 Ko
+keylogger.exe                14732 Console                    1     9ˇ084 Ko
+keylogger.exe                13648 Console                    1    81ˇ900 Ko
+SearchProtocolHost.exe        1868 Services                   0    19ˇ568 Ko
+WmiPrvSE.exe                  5224 Services                   0    12ˇ744 Ko
+SearchFilterHost.exe          6416 Services                   0    13ˇ180 Ko
+SearchFilterHost.exe          1780 Services                   0    12ˇ264 Ko
+TrustedInstaller.exe         13436 Services                   0     9ˇ988 Ko
+TiWorker.exe                  3900 Services                   0    18ˇ288 Ko
+svchost.exe                   6924 Services                   0    19ˇ492 Ko
+keylogger.exe                 2608 Console                    1    81ˇ780 Ko
+keylogger.exe                12492 Console                    1    80ˇ380 Ko
+keylogger.exe                10268 Console                    1    80ˇ684 Ko
+cmd.exe                       4772 Console                    1     5ˇ480 Ko
+conhost.exe                  13380 Console                    1     9ˇ608 Ko
+NETSTAT.EXE                   9112 Console                    1     7ˇ340 Ko
+cmd.exe                       2224 Console                    1     5ˇ528 Ko
+conhost.exe                   4720 Console                    1     9ˇ608 Ko
+tasklist.exe                 11388 Console                    1    12ˇ308 Ko
+
+SERVICE_NAME: AppIDSvc
+DISPLAY_NAME: IdentitÇ de l'application
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Appinfo
+DISPLAY_NAME: Informations d'application
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: AppXSvc
+DISPLAY_NAME: Service de dÇploiement AppX (AppXSVC)
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: AudioEndpointBuilder
+DISPLAY_NAME: GÇnÇrateur de points de terminaison du service Audio Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Audiosrv
+DISPLAY_NAME: Audio Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: BFE
+DISPLAY_NAME: Moteur de filtrage de base
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: BrokerInfrastructure
+DISPLAY_NAME: Service d'infrastructure des tÉches en arriäre-plan
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: camsvc
+DISPLAY_NAME: Service Gestionnaire d'accäs aux fonctionnalitÇs
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: CDPSvc
+DISPLAY_NAME: Service de plateforme des appareils connectÇs
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: ClipSVC
+DISPLAY_NAME: Service de licences de client (ClipSVC)
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: CoreMessagingRegistrar
+DISPLAY_NAME: CoreMessaging
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: cphs
+DISPLAY_NAME: Intel(R) Content Protection HECI Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: cplspcon
+DISPLAY_NAME: Intel(R) Content Protection HDCP Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: CryptSvc
+DISPLAY_NAME: Services de chiffrement
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DcomLaunch
+DISPLAY_NAME: Lanceur de processus serveur DCOM
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DeviceAssociationService
+DISPLAY_NAME: Service d'association de pÇriphÇrique
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DeviceInstall
+DISPLAY_NAME: Service d'installation de pÇriphÇrique
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DevQueryBroker
+DISPLAY_NAME: Service Broker de dÇcouverte en arriäre-plan DevQuery
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Dhcp
+DISPLAY_NAME: Client DHCP
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DiagTrack
+DISPLAY_NAME: ExpÇriences des utilisateurs connectÇs et tÇlÇmÇtrie
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DispBrokerDesktopSvc
+DISPLAY_NAME: Service de stratÇgie d'affichage
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Dnscache
+DISPLAY_NAME: Client DNS
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DoSvc
+DISPLAY_NAME: Optimisation de livraison
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DPS
+DISPLAY_NAME: Service de stratÇgie de diagnostic
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: DusmSvc
+DISPLAY_NAME: Consommation des donnÇes
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: EventLog
+DISPLAY_NAME: Journal d'ÇvÇnements Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: EventSystem
+DISPLAY_NAME: Systäme d'ÇvÇnement COM+
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: FontCache
+DISPLAY_NAME: Service de cache de police Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: FontCache3.0.0.0
+DISPLAY_NAME: Cache de police de Windows Presentation Foundationˇ3.0.0.0
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: GamingServices
+DISPLAY_NAME: Gaming Services
+        TYPE               : 210  WIN32_PACKAGED_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: GamingServicesNet
+DISPLAY_NAME: Gaming Services
+        TYPE               : 210  WIN32_PACKAGED_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: gpsvc
+DISPLAY_NAME: Client de stratÇgie de groupe
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: hidserv
+DISPLAY_NAME: Service du pÇriphÇrique d'interface utilisateur
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: igccservice
+DISPLAY_NAME: Intel(R) Graphics Command Center Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: igfxCUIService2.0.0.0
+DISPLAY_NAME: Intel(R) HD Graphics Control Panel Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: InstallService
+DISPLAY_NAME: Installation du service Microsoft Store
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: iphlpsvc
+DISPLAY_NAME: Assistance IP
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: jhi_service
+DISPLAY_NAME: Intel(R) Dynamic Application Loader Host Interface Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: KeyIso
+DISPLAY_NAME: Isolation de clÇ CNG
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: LanmanServer
+DISPLAY_NAME: Serveur
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: LanmanWorkstation
+DISPLAY_NAME: Station de travail
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: lfsvc
+DISPLAY_NAME: Service de gÇolocalisation
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: LicenseManager
+DISPLAY_NAME: Serveur Gestionnaire de licences Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: lmhosts
+DISPLAY_NAME: Assistance NetBIOS sur TCP/IP
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: LSM
+DISPLAY_NAME: Gestionnaire de session locale
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: MDCoreSvc
+DISPLAY_NAME: Microsoft Defender Service de base
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: mpssvc
+DISPLAY_NAME: Pare-feu Windows Defender
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: NcbService
+DISPLAY_NAME: Service Broker pour les connexions rÇseau
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: netprofm
+DISPLAY_NAME: Service Liste des rÇseaux
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: NgcCtnrSvc
+DISPLAY_NAME: Conteneur Microsoft Passport
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: NgcSvc
+DISPLAY_NAME: Microsoft Passport
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: nsi
+DISPLAY_NAME: Service Interface du magasin rÇseau
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: NVDisplay.ContainerLocalSystem
+DISPLAY_NAME: NVIDIA Display Container LS
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: PcaSvc
+DISPLAY_NAME: Service de l'Assistant CompatibilitÇ des programmes
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: PlugPlay
+DISPLAY_NAME: Plug-and-Play
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Power
+DISPLAY_NAME: Alimentation
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: ProfSvc
+DISPLAY_NAME: Service de profil utilisateur
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: RasMan
+DISPLAY_NAME: Gestionnaire des connexions d'accäs Ö distance
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: RmSvc
+DISPLAY_NAME: Service de gestion radio
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: RpcEptMapper
+DISPLAY_NAME: Mappeur de point de terminaison RPC
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: RpcSs
+DISPLAY_NAME: Appel de procÇdure distante (RPC)
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: RtkAudioUniversalService
+DISPLAY_NAME: Realtek Audio Universal Service
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SamSs
+DISPLAY_NAME: Gestionnaire de comptes de sÇcuritÇ
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Schedule
+DISPLAY_NAME: Planificateur de tÉches
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SecurityHealthService
+DISPLAY_NAME: Service SÇcuritÇ Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SENS
+DISPLAY_NAME: Service de notification d'ÇvÇnements systäme
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: ShellHWDetection
+DISPLAY_NAME: DÇtection matÇriel noyau
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Spooler
+DISPLAY_NAME: Spouleur d'impression
+        TYPE               : 110  WIN32_OWN_PROCESS  (interactive)
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SSDPSRV
+DISPLAY_NAME: DÇcouverte SSDP
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SstpSvc
+DISPLAY_NAME: ServiceˇSSTP (Secure Socket Tunneling Protocol)
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: StateRepository
+DISPLAY_NAME: Service State Repository (StateRepository)
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: StorSvc
+DISPLAY_NAME: Service de stockage
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SysMain
+DISPLAY_NAME: SysMain
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: SystemEventsBroker
+DISPLAY_NAME: Service Broker des ÇvÇnements systäme
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: TextInputManagementService
+DISPLAY_NAME: Service de gestion des entrÇes de texte
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Themes
+DISPLAY_NAME: Thämes
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: TimeBrokerSvc
+DISPLAY_NAME: Service Broker pour les ÇvÇnements horaires
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: TokenBroker
+DISPLAY_NAME: Gestionnaire de comptes web
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: TrkWks
+DISPLAY_NAME: Client de suivi de lien distribuÇ
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: TrustedInstaller
+DISPLAY_NAME: Programme d'installation pour les modules Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: UserManager
+DISPLAY_NAME: Gestionnaire des utilisateurs
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: UsoSvc
+DISPLAY_NAME: Service Orchestrator pour les mises Ö jour
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: VaultSvc
+DISPLAY_NAME: Gestionnaire d'informations d'identification
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Wcmsvc
+DISPLAY_NAME: Gestionnaire des connexions Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WdiSystemHost
+DISPLAY_NAME: Hìte systäme de diagnostics
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: webthreatdefsvc
+DISPLAY_NAME: Service Web Threat Defense
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: whesvc
+DISPLAY_NAME: IntÇgritÇ de Windows et expÇriences optimisÇes
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WinDefend
+DISPLAY_NAME: Service antivirus Microsoft Defender
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WinHttpAutoProxySvc
+DISPLAY_NAME: Service de dÇcouverte automatique de Proxy Web pour les services HTTP Windows
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: Winmgmt
+DISPLAY_NAME: Infrastructure de gestion Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WlanSvc
+DISPLAY_NAME: Service de configuration automatique WLAN
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: wlidsvc
+DISPLAY_NAME: Assistant Connexion avec un compte Microsoft
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WMIRegistrationService
+DISPLAY_NAME: Intel(R) Management Engine WMI Provider Registration
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WpnService
+DISPLAY_NAME: Service du systäme de notifications Push Windows
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WSAIFabricSvc
+DISPLAY_NAME: WSAIFabricSvc
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: wscsvc
+DISPLAY_NAME: Centre de sÇcuritÇ
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WSearch
+DISPLAY_NAME: Windows Search
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: XblAuthManager
+DISPLAY_NAME: Gestionnaire d'authentification Xbox Live
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: cbdhsvc_a5b79
+DISPLAY_NAME: Service utilisateur du Presse-papiers_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: CDPUserSvc_a5b79
+DISPLAY_NAME: Service pour utilisateur de plateforme d'appareils connectÇs_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: NPSMSvc_a5b79
+DISPLAY_NAME: Lecture en cours du service du Responsable de la session_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: OneSyncSvc_a5b79
+DISPLAY_NAME: Hìte de synchronisation_a5b79
+        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: UdkUserSvc_a5b79
+DISPLAY_NAME: Service utilisateur du kit de dÇveloppement sans station d'accueil_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: webthreatdefusersvc_a5b79
+DISPLAY_NAME: Service d'utilisateur Web Threat Defense_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: WpnUserService_a5b79
+DISPLAY_NAME: Service utilisateur de notifications Push Windows_a5b79
+        TYPE               : f0   ERROR  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+Public IP Address: 82.65.67.118
+Private IP Address: 192.168.1.142
