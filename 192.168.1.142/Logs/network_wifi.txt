@@ -414,51 +414,52 @@ Connexions actives
   TCP    192.168.1.142:50947    104.18.25.17:https     ESTABLISHED
   TCP    192.168.1.142:50950    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51001    lb-140-82-121-4-fra:https  ESTABLISHED
-rofil d’interface « iPhone de Élisée   » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de Élisée  .xml ».
-
-Le profil d’interface « iPhone de tatiana » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de tatiana.xml ».
-
-Le profil d’interface « eir45667475 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-eir45667475.xml ».
-
-Le profil d’interface « Zozo L'artichaut  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
-
-Le profil d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
-
-Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
-
-Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
-
-Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
-
-Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
-
-Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
-
-Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
-
-Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
-
-Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
-
-Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
-
-Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
-
-Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
-
-Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
-
-Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
-
-Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
-
-Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
-
-Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
-
-Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
+  TCP    192.168.1.142:51004    20.190.159.129:https   ESTABLISHED
+  TCP    192.168.1.142:51005    a104-75-232-13:http    ESTABLISHED
+  TCP    192.168.1.142:51007    40.122.167.99:https    TIME_WAIT
+  TCP    192.168.1.142:51015    lb-140-82-112-26-iad:https  ESTABLISHED
+  TCP    [::]:135               Starmt:0               LISTENING
+  TCP    [::]:445               Starmt:0               LISTENING
+  TCP    [::]:7680              Starmt:0               LISTENING
+  TCP    [::]:49664             Starmt:0               LISTENING
+  TCP    [::]:49665             Starmt:0               LISTENING
+  TCP    [::]:49666             Starmt:0               LISTENING
+  TCP    [::]:49667             Starmt:0               LISTENING
+  TCP    [::]:49668             Starmt:0               LISTENING
+  TCP    [::]:49670             Starmt:0               LISTENING
+  TCP    [::1]:49669            Starmt:0               LISTENING
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49692  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49850  [2a0b:e46:1:100::33]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49851  [2a0b:e46:1:100::56]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49883  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49957  bt1:https              ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50906  [2606:50c0:8002::154]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50944  [2606:4700::6812:1737]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50997  [2a0b:e46:1:100::28]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:51032  [2603:1063:27:1::14]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:51043  vip01:https            ESTABLISHED
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:53854          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:49793        *:*                    
+  UDP    192.168.1.142:137      *:*                    
+  UDP    192.168.1.142:138      *:*                    
+  UDP    192.168.1.142:1900     *:*                    
+  UDP    192.168.1.142:49792    *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:53854             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:49791            *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:1900  *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:49790  *:*                    
+ Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
 
 Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
 
@@ -617,3 +618,6 @@ Connexions actives
   TCP    127.0.0.1:6463         Starmt:0               LISTENING
   TCP    192.168.1.142:139      Starmt:0               LISTENING
   TCP    192.168.1.142:50843    162.159.130.234:https  ESTABLISHED
+  TCP    192.168.1.142:50947    104.18.25.17:https     ESTABLISHED
+  TCP    192.168.1.142:50950    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51001    lb-140-82-121-4-fra:https  ESTABLISHED
