@@ -23,10 +23,10 @@ Paramätres rÇgionaux systäme:               fr;Franáais (France)
 Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
 Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
 MÇmoire physique totale:                    8ˇ016 Mo
-MÇmoire physique disponible:                1ˇ525 Mo
+MÇmoire physique disponible:                906 Mo
 MÇmoire virtuelleˇ: taille maximale:        23ˇ376 Mo
-MÇmoire virtuelleˇ: disponible:             8ˇ169 Mo
-MÇmoire virtuelleˇ: en cours d'utilisation: 15ˇ207 Mo
+MÇmoire virtuelleˇ: disponible:             3ˇ334 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 20ˇ042 Mo
 Emplacement(s) de fichier d'Çchange:        C:\pagefile.sys
 Domaine:                                    WORKGROUP
 Serveur d'ouverture de session:             \\STARMT
@@ -61,1581 +61,276 @@ Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ord
 Nom de l'image                 PID Nom de la sessio NumÇro de s Utilisation 
 ========================= ======== ================ =========== ============
 System Idle Process              0 Services                   0         8 Ko
-System                           4 Services                   0    15ˇ264 Ko
-Registry                       224 Services                   0    39ˇ560 Ko
+System                           4 Services                   0    15ˇ272 Ko
+Registry                       224 Services                   0    39ˇ964 Ko
 smss.exe                       704 Services                   0       364 Ko
-csrss.exe                      796 Services                   0     4ˇ092 Ko
+csrss.exe                      796 Services                   0     4ˇ088 Ko
 wininit.exe                   1076 Services                   0     3ˇ532 Ko
-csrss.exe                     1084 Console                    1     4ˇ392 Ko
-winlogon.exe                  1144 Console                    1     6ˇ648 Ko
-services.exe                  1224 Services                   0    10ˇ816 Ko
-lsass.exe                     1244 Services                   0    19ˇ528 Ko
-svchost.exe                   1380 Services                   0    22ˇ928 Ko
+csrss.exe                     1084 Console                    1     4ˇ588 Ko
+winlogon.exe                  1144 Console                    1     6ˇ628 Ko
+services.exe                  1224 Services                   0    10ˇ836 Ko
+lsass.exe                     1244 Services                   0    19ˇ652 Ko
+svchost.exe                   1380 Services                   0    23ˇ912 Ko
 fontdrvhost.exe               1412 Services                   0     1ˇ512 Ko
-fontdrvhost.exe               1420 Console                    1     3ˇ164 Ko
-svchost.exe                   1504 Services                   0    14ˇ640 Ko
-svchost.exe                   1560 Services                   0     6ˇ240 Ko
-dwm.exe                       1640 Console                    1   430ˇ908 Ko
-svchost.exe                   1720 Services                   0    20ˇ540 Ko
-svchost.exe                   1848 Services                   0    10ˇ020 Ko
-svchost.exe                   1884 Services                   0    11ˇ964 Ko
-svchost.exe                   1904 Services                   0    12ˇ760 Ko
-svchost.exe                   1936 Services                   0     7ˇ348 Ko
-IntelCpHDCPSvc.exe            1960 Services                   0     5ˇ640 Ko
-svchost.exe                   1996 Services                   0     2ˇ580 Ko
-svchost.exe                   1088 Services                   0     7ˇ652 Ko
-svchost.exe                   1320 Services                   0     5ˇ004 Ko
-svchost.exe                   2112 Services                   0    12ˇ544 Ko
-IntelCpHeciSvc.exe            2120 Services                   0     3ˇ600 Ko
-svchost.exe                   2156 Services                   0    10ˇ584 Ko
-svchost.exe                   2196 Services                   0     4ˇ260 Ko
-svchost.exe                   2336 Services                   0     3ˇ368 Ko
-NVDisplay.Container.exe       2420 Services                   0    18ˇ312 Ko
-svchost.exe                   2540 Services                   0     9ˇ220 Ko
-svchost.exe                   2572 Services                   0    15ˇ336 Ko
-svchost.exe                   2624 Services                   0     4ˇ884 Ko
-svchost.exe                   2632 Services                   0    11ˇ828 Ko
-svchost.exe                   2640 Services                   0     7ˇ636 Ko
-Memory Compression            2808 Services                   0   177ˇ924 Ko
-svchost.exe                   2852 Services                   0     9ˇ024 Ko
-igfxCUIService.exe            2936 Services                   0     4ˇ880 Ko
-svchost.exe                   2972 Services                   0     4ˇ024 Ko
-svchost.exe                   2980 Services                   0     5ˇ640 Ko
-svchost.exe                   3068 Services                   0    11ˇ936 Ko
-svchost.exe                   2564 Services                   0     6ˇ696 Ko
-svchost.exe                   3084 Services                   0     4ˇ080 Ko
-svchost.exe                   3092 Services                   0     4ˇ192 Ko
-svchost.exe                   3232 Services                   0     5ˇ080 Ko
-svchost.exe                   3260 Services                   0    21ˇ592 Ko
-svchost.exe                   3356 Services                   0     6ˇ180 Ko
-svchost.exe                   3556 Services                   0    13ˇ904 Ko
-svchost.exe                   3596 Services                   0     6ˇ072 Ko
-svchost.exe                   3644 Services                   0     3ˇ756 Ko
-spoolsv.exe                   3704 Services                   0     7ˇ384 Ko
-svchost.exe                   3764 Services                   0    14ˇ156 Ko
-NVDisplay.Container.exe       3812 Console                    1    26ˇ500 Ko
-svchost.exe                   3840 Services                   0     4ˇ208 Ko
-svchost.exe                   3876 Services                   0    21ˇ356 Ko
-svchost.exe                   4132 Services                   0    46ˇ856 Ko
-OneApp.IGCC.WinService.ex     4144 Services                   0    24ˇ620 Ko
-svchost.exe                   4152 Services                   0     6ˇ812 Ko
-svchost.exe                   4168 Services                   0     2ˇ496 Ko
-svchost.exe                   4176 Services                   0     3ˇ944 Ko
-svchost.exe                   4184 Services                   0    17ˇ944 Ko
-svchost.exe                   4196 Services                   0    20ˇ848 Ko
-jhi_service.exe               4204 Services                   0     2ˇ524 Ko
-RtkAudUService64.exe          4216 Services                   0     8ˇ436 Ko
-WMIRegistrationService.ex     4236 Services                   0     6ˇ076 Ko
-MpDefenderCoreService.exe     4260 Services                   0    22ˇ904 Ko
-MsMpEng.exe                   4272 Services                   0   151ˇ780 Ko
-svchost.exe                   4576 Services                   0     7ˇ884 Ko
-svchost.exe                   5436 Services                   0    15ˇ652 Ko
-svchost.exe                   5444 Services                   0    48ˇ580 Ko
-gamingservices.exe            5540 Services                   0    31ˇ504 Ko
-gamingservicesnet.exe         5548 Services                   0     4ˇ088 Ko
-AggregatorHost.exe            5244 Services                   0     6ˇ844 Ko
-svchost.exe                   3400 Services                   0     6ˇ628 Ko
-svchost.exe                   6292 Services                   0     5ˇ112 Ko
-svchost.exe                   6352 Services                   0     5ˇ872 Ko
-svchost.exe                   6672 Services                   0     2ˇ124 Ko
-svchost.exe                   5752 Services                   0     7ˇ992 Ko
-svchost.exe                   6620 Services                   0    30ˇ184 Ko
-svchost.exe                   7236 Services                   0     2ˇ836 Ko
-svchost.exe                   7468 Services                   0     2ˇ556 Ko
-sihost.exe                    7692 Console                    1    27ˇ360 Ko
-svchost.exe                   7772 Console                    1    24ˇ400 Ko
-PresentationFontCache.exe     7792 Services                   0     6ˇ256 Ko
-svchost.exe                   7844 Console                    1     8ˇ612 Ko
-svchost.exe                   7880 Console                    1    21ˇ872 Ko
-taskhostw.exe                 7932 Console                    1    12ˇ268 Ko
-svchost.exe                   8008 Services                   0    14ˇ044 Ko
-svchost.exe                   6156 Services                   0    12ˇ444 Ko
-igfxEM.exe                    7424 Console                    1     6ˇ800 Ko
-explorer.exe                  7556 Console                    1   338ˇ004 Ko
-ShellHost.exe                 7660 Console                    1    16ˇ204 Ko
-svchost.exe                   8400 Console                    1    14ˇ536 Ko
-svchost.exe                   8480 Services                   0    13ˇ496 Ko
-SearchHost.exe                8824 Console                    1    38ˇ972 Ko
-StartMenuExperienceHost.e     8832 Console                    1    69ˇ976 Ko
-UserOOBEBroker.exe            9060 Console                    1     4ˇ092 Ko
-RuntimeBroker.exe             9088 Console                    1    21ˇ732 Ko
-svchost.exe                   9096 Console                    1     8ˇ032 Ko
-SearchIndexer.exe             8188 Services                   0    36ˇ708 Ko
-msedgewebview2.exe            9592 Console                    1    42ˇ520 Ko
-msedgewebview2.exe            9644 Console                    1     3ˇ472 Ko
-msedgewebview2.exe            9828 Console                    1    18ˇ464 Ko
-msedgewebview2.exe            9856 Console                    1    22ˇ812 Ko
-msedgewebview2.exe            9936 Console                    1     7ˇ184 Ko
-msedgewebview2.exe           10100 Console                    1    31ˇ216 Ko
-backgroundTaskHost.exe       10576 Console                    1     2ˇ596 Ko
-ctfmon.exe                   10308 Console                    1    33ˇ952 Ko
-PhoneExperienceHost.exe      10832 Console                    1   150ˇ260 Ko
-smartscreen.exe               5976 Console                    1     9ˇ552 Ko
-RtkAudUService64.exe          5896 Console                    1     8ˇ728 Ko
-opera.exe                     2664 Console                    1   228ˇ536 Ko
-svchost.exe                   2680 Services                   0    11ˇ212 Ko
-opera_crashreporter.exe       3248 Console                    1     7ˇ236 Ko
-opera.exe                     1944 Console                    1   195ˇ436 Ko
-opera.exe                     1900 Console                    1    49ˇ208 Ko
-opera.exe                    11292 Console                    1    20ˇ320 Ko
-opera.exe                    11392 Console                    1    88ˇ980 Ko
-opera.exe                    11424 Console                    1    50ˇ020 Ko
-opera.exe                    11472 Console                    1    79ˇ260 Ko
-opera.exe                    11736 Console                    1   101ˇ980 Ko
-opera.exe                    11752 Console                    1   109ˇ756 Ko
-opera.exe                    11840 Console                    1    65ˇ236 Ko
-opera.exe                    12080 Console                    1    65ˇ136 Ko
-opera.exe                    12124 Console                    1    84ˇ940 Ko
-opera.exe                    12164 Console                    1    64ˇ624 Ko
-opera.exe                    11744 Console                    1    20ˇ900 Ko
-opera.exe                    12352 Console                    1    79ˇ304 Ko
-opera.exe                    13068 Console                    1    51ˇ936 Ko
-opera.exe                    13216 Console                    1   119ˇ688 Ko
-opera.exe                     7404 Console                    1   109ˇ320 Ko
-opera.exe                    12920 Console                    1    92ˇ520 Ko
-opera.exe                    13024 Console                    1   202ˇ784 Ko
-SecurityHealthService.exe    14124 Services                   0    26ˇ544 Ko
-MpCmdRun.exe                 14264 Services                   0    16ˇ640 Ko
-svchost.exe                  13660 Services                   0    11ˇ128 Ko
-svchost.exe                  13776 Services                   0    23ˇ456 Ko
-svchost.exe                   3444 Services                   0    14ˇ808 Ko
-svchost.exe                  11000 Services                   0    16ˇ856 Ko
-svchost.exe                  10772 Services                   0    13ˇ660 Ko
-svchost.exe                  10564 Console                    1    14ˇ980 Ko
-opera.exe                     5524 Console                    1   310ˇ112 Ko
-opera.exe                    14304 Console                    1    29ˇ960 Ko
-SystemSettings.exe            7520 Console                    1   126ˇ160 Ko
-ApplicationFrameHost.exe      3604 Console                    1    62ˇ048 Ko
-svchost.exe                   9976 Console                    1    16ˇ384 Ko
-svchost.exe                   2928 Services                   0     8ˇ780 Ko
-svchost.exe                  13424 Services                   0    15ˇ736 Ko
-svchost.exe                  14284 Services                   0    15ˇ912 Ko
-svchost.exe                  13472 Services                   0    17ˇ332 Ko
-svchost.exe                   2768 Services                   0     9ˇ076 Ko
-svchost.exe                   2532 Services                   0     9ˇ756 Ko
-svchost.exe                  12768 Services                   0    15ˇ976 Ko
-audiodg.exe                   8064 Services                   0    19ˇ312 Ko
-Discord.exe                   2660 Console                    1   156ˇ488 Ko
-Discord.exe                  11072 Console                    1    15ˇ968 Ko
-Discord.exe                  10868 Console                    1   205ˇ452 Ko
-Discord.exe                  11144 Console                    1    35ˇ440 Ko
-Discord.exe                   7248 Console                    1   414ˇ928 Ko
-Discord.exe                   4660 Console                    1    36ˇ060 Ko
-RuntimeBroker.exe            13016 Console                    1    32ˇ472 Ko
-StoreDesktopExtension.exe     2272 Console                    1    32ˇ632 Ko
-WinStore.App.exe              6032 Console                    1   100ˇ988 Ko
-Taskmgr.exe                   7824 Console                    1   160ˇ636 Ko
-opera.exe                     3136 Console                    1    20ˇ480 Ko
-opera.exe                     2716 Console                    1   139ˇ184 Ko
-opera.exe                    14832 Console                    1    39ˇ272 Ko
-svchost.exe                   7748 Services                   0    12ˇ348 Ko
-WmiPrvSE.exe                  6376 Services                   0    24ˇ328 Ko
-keylogger.exe                14732 Console                    1     9ˇ168 Ko
-keylogger.exe                13648 Console                    1    82ˇ032 Ko
-SearchProtocolHost.exe        1868 Services                   0    16ˇ908 Ko
-WmiPrvSE.exe                  5224 Services                   0    13ˇ108 Ko
-SearchFilterHost.exe          6416 Services                   0    12ˇ484 Ko
-SearchFilterHost.exe          1780 Services                   0    11ˇ900 Ko
-TrustedInstaller.exe         13436 Services                   0    10ˇ268 Ko
-TiWorker.exe                  3900 Services                   0    19ˇ344 Ko
-svchost.exe                   6924 Services                   0    19ˇ036 Ko
-keylogger.exe                 2608 Console                    1    81ˇ800 Ko
-keylogger.exe                10268 Console                    1    81ˇ208 Ko
-keylogger.exe                 3304 Console                    1    81ˇ420 Ko
-keylogger.exe                 9264 Console                    1    80ˇ892 Ko
-keylogger.exe                15300 Console                    1    82ˇ588 Ko
-keylogger.exe                 4656 Console                    1    80ˇ796 Ko
-backgroundTaskHost.exe        1608 Console                    1    32ˇ136 Ko
-keylogger.exe                14644 Console                    1    81ˇ428 Ko
-keylogger.exe                 2696 Console                    1    81ˇ868 Ko
-svchost.exe                   3292 Services                   0    11ˇ844 Ko
-keylogger.exe                 6996 Console                    1    81ˇ208 Ko
-keylogger.exe                 7708 Console                    1    81ˇ148 Ko
-keylogger.exe                 7956 Console                    1    81ˇ176 Ko
-keylogger.exe                12996 Console                    1    81ˇ176 Ko
-keylogger.exe                 3616 Console                    1    81ˇ708 Ko
-keylogger.exe                 9744 Console                    1    80ˇ984 Ko
-keylogger.exe                 2024 Console                    1    80ˇ564 Ko
-cmd.exe                        736 Console                    1     5ˇ480 Ko
-conhost.exe                   9612 Console                    1     9ˇ568 Ko
-NETSTAT.EXE                   7704 Console                    1     7ˇ324 Ko
-keylogger.exe                 6740 Console                    1    80ˇ324 Ko
-cmd.exe                       7820 Console                    1     5ˇ480 Ko
-conhost.exe                  10320 Console                    1     9ˇ584 Ko
-NETSTAT.EXE                   6192 Console                    1     7ˇ336 Ko
-keylogger.exe                 8616 Console                    1    80ˇ524 Ko
-cmd.exe                       3128 Console                    1     5ˇ496 Ko
-conhost.exe                  15044 Console                    1     9ˇ612 Ko
-NETSTAT.EXE                  14672 Console                    1     7ˇ328 Ko
-taskhostw.exe                10860 Console                    1    27ˇ612 Ko
-svchost.exe                  12648 Services                   0     7ˇ196 Ko
-svchost.exe                  14840 Services                   0    33ˇ392 Ko
-keylogger.exe                 3404 Console                    1    80ˇ384 Ko
-cmd.exe                      12664 Console                    1     5ˇ500 Ko
-conhost.exe                   7720 Console                    1     9ˇ624 Ko
-NETSTAT.EXE                   4808 Console                    1     7ˇ344 Ko
-cmd.exe                       9196 Console                    1     5ˇ536 Ko
-conhost.exe                  14232 Console                    1     9ˇ600 Ko
-tasklist.exe                 11124 Console                    1    12ˇ264 Ko
-
-SERVICE_NAME: AppIDSvc
-DISPLAY_NAME: IdentitÇ de l'application
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Appinfo
-DISPLAY_NAME: Informations d'application
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: AppXSvc
-DISPLAY_NAME: Service de dÇploiement AppX (AppXSVC)
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: AudioEndpointBuilder
-DISPLAY_NAME: GÇnÇrateur de points de terminaison du service Audio Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Audiosrv
-DISPLAY_NAME: Audio Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: BFE
-DISPLAY_NAME: Moteur de filtrage de base
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: BrokerInfrastructure
-DISPLAY_NAME: Service d'infrastructure des tÉches en arriäre-plan
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: camsvc
-DISPLAY_NAME: Service Gestionnaire d'accäs aux fonctionnalitÇs
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: CDPSvc
-DISPLAY_NAME: Service de plateforme des appareils connectÇs
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: ClipSVC
-DISPLAY_NAME: Service de licences de client (ClipSVC)
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: CoreMessagingRegistrar
-DISPLAY_NAME: CoreMessaging
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: cphs
-DISPLAY_NAME: Intel(R) Content Protection HECI Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: cplspcon
-DISPLAY_NAME: Intel(R) Content Protection HDCP Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: CryptSvc
-DISPLAY_NAME: Services de chiffrement
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DcomLaunch
-DISPLAY_NAME: Lanceur de processus serveur DCOM
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DeviceAssociationService
-DISPLAY_NAME: Service d'association de pÇriphÇrique
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DeviceInstall
-DISPLAY_NAME: Service d'installation de pÇriphÇrique
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DevQueryBroker
-DISPLAY_NAME: Service Broker de dÇcouverte en arriäre-plan DevQuery
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Dhcp
-DISPLAY_NAME: Client DHCP
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DiagTrack
-DISPLAY_NAME: ExpÇriences des utilisateurs connectÇs et tÇlÇmÇtrie
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DispBrokerDesktopSvc
-DISPLAY_NAME: Service de stratÇgie d'affichage
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Dnscache
-DISPLAY_NAME: Client DNS
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DoSvc
-DISPLAY_NAME: Optimisation de livraison
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DPS
-DISPLAY_NAME: Service de stratÇgie de diagnostic
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: DusmSvc
-DISPLAY_NAME: Consommation des donnÇes
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: EventLog
-DISPLAY_NAME: Journal d'ÇvÇnements Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: EventSystem
-DISPLAY_NAME: Systäme d'ÇvÇnement COM+
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: FontCache
-DISPLAY_NAME: Service de cache de police Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: FontCache3.0.0.0
-DISPLAY_NAME: Cache de police de Windows Presentation Foundationˇ3.0.0.0
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: GamingServices
-DISPLAY_NAME: Gaming Services
-        TYPE               : 210  WIN32_PACKAGED_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: GamingServicesNet
-DISPLAY_NAME: Gaming Services
-        TYPE               : 210  WIN32_PACKAGED_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: gpsvc
-DISPLAY_NAME: Client de stratÇgie de groupe
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: hidserv
-DISPLAY_NAME: Service du pÇriphÇrique d'interface utilisateur
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: igccservice
-DISPLAY_NAME: Intel(R) Graphics Command Center Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: igfxCUIService2.0.0.0
-DISPLAY_NAME: Intel(R) HD Graphics Control Panel Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: InstallService
-DISPLAY_NAME: Installation du service Microsoft Store
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: iphlpsvc
-DISPLAY_NAME: Assistance IP
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: jhi_service
-DISPLAY_NAME: Intel(R) Dynamic Application Loader Host Interface Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: KeyIso
-DISPLAY_NAME: Isolation de clÇ CNG
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: LanmanServer
-DISPLAY_NAME: Serveur
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: LanmanWorkstation
-DISPLAY_NAME: Station de travail
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: lfsvc
-DISPLAY_NAME: Service de gÇolocalisation
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: LicenseManager
-DISPLAY_NAME: Serveur Gestionnaire de licences Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: lmhosts
-DISPLAY_NAME: Assistance NetBIOS sur TCP/IP
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: LSM
-DISPLAY_NAME: Gestionnaire de session locale
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: MDCoreSvc
-DISPLAY_NAME: Microsoft Defender Service de base
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: mpssvc
-DISPLAY_NAME: Pare-feu Windows Defender
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: NcbService
-DISPLAY_NAME: Service Broker pour les connexions rÇseau
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: netprofm
-DISPLAY_NAME: Service Liste des rÇseaux
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: NgcCtnrSvc
-DISPLAY_NAME: Conteneur Microsoft Passport
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: NgcSvc
-DISPLAY_NAME: Microsoft Passport
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: nsi
-DISPLAY_NAME: Service Interface du magasin rÇseau
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: NVDisplay.ContainerLocalSystem
-DISPLAY_NAME: NVIDIA Display Container LS
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: PcaSvc
-DISPLAY_NAME: Service de l'Assistant CompatibilitÇ des programmes
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: PlugPlay
-DISPLAY_NAME: Plug-and-Play
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Power
-DISPLAY_NAME: Alimentation
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: ProfSvc
-DISPLAY_NAME: Service de profil utilisateur
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: RasMan
-DISPLAY_NAME: Gestionnaire des connexions d'accäs Ö distance
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: RmSvc
-DISPLAY_NAME: Service de gestion radio
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: RpcEptMapper
-DISPLAY_NAME: Mappeur de point de terminaison RPC
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: RpcSs
-DISPLAY_NAME: Appel de procÇdure distante (RPC)
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: RtkAudioUniversalService
-DISPLAY_NAME: Realtek Audio Universal Service
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SamSs
-DISPLAY_NAME: Gestionnaire de comptes de sÇcuritÇ
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Schedule
-DISPLAY_NAME: Planificateur de tÉches
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SecurityHealthService
-DISPLAY_NAME: Service SÇcuritÇ Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SENS
-DISPLAY_NAME: Service de notification d'ÇvÇnements systäme
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: ShellHWDetection
-DISPLAY_NAME: DÇtection matÇriel noyau
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Spooler
-DISPLAY_NAME: Spouleur d'impression
-        TYPE               : 110  WIN32_OWN_PROCESS  (interactive)
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SSDPSRV
-DISPLAY_NAME: DÇcouverte SSDP
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SstpSvc
-DISPLAY_NAME: ServiceˇSSTP (Secure Socket Tunneling Protocol)
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: StateRepository
-DISPLAY_NAME: Service State Repository (StateRepository)
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: StorSvc
-DISPLAY_NAME: Service de stockage
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SysMain
-DISPLAY_NAME: SysMain
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: SystemEventsBroker
-DISPLAY_NAME: Service Broker des ÇvÇnements systäme
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: TextInputManagementService
-DISPLAY_NAME: Service de gestion des entrÇes de texte
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Themes
-DISPLAY_NAME: Thämes
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: TimeBrokerSvc
-DISPLAY_NAME: Service Broker pour les ÇvÇnements horaires
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: TokenBroker
-DISPLAY_NAME: Gestionnaire de comptes web
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: TrkWks
-DISPLAY_NAME: Client de suivi de lien distribuÇ
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: TrustedInstaller
-DISPLAY_NAME: Programme d'installation pour les modules Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: UserManager
-DISPLAY_NAME: Gestionnaire des utilisateurs
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: UsoSvc
-DISPLAY_NAME: Service Orchestrator pour les mises Ö jour
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: VaultSvc
-DISPLAY_NAME: Gestionnaire d'informations d'identification
-        TYPE               : 20  WIN32_SHARE_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WbioSrvc
-DISPLAY_NAME: Service de biomÇtrie Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Wcmsvc
-DISPLAY_NAME: Gestionnaire des connexions Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WdiSystemHost
-DISPLAY_NAME: Hìte systäme de diagnostics
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: webthreatdefsvc
-DISPLAY_NAME: Service Web Threat Defense
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WerSvc
-DISPLAY_NAME: Service de rapport d'erreurs Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: whesvc
-DISPLAY_NAME: IntÇgritÇ de Windows et expÇriences optimisÇes
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WinDefend
-DISPLAY_NAME: Service antivirus Microsoft Defender
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WinHttpAutoProxySvc
-DISPLAY_NAME: Service de dÇcouverte automatique de Proxy Web pour les services HTTP Windows
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: Winmgmt
-DISPLAY_NAME: Infrastructure de gestion Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WlanSvc
-DISPLAY_NAME: Service de configuration automatique WLAN
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: wlidsvc
-DISPLAY_NAME: Assistant Connexion avec un compte Microsoft
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WMIRegistrationService
-DISPLAY_NAME: Intel(R) Management Engine WMI Provider Registration
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WpnService
-DISPLAY_NAME: Service du systäme de notifications Push Windows
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WSAIFabricSvc
-DISPLAY_NAME: WSAIFabricSvc
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: wscsvc
-DISPLAY_NAME: Centre de sÇcuritÇ
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WSearch
-DISPLAY_NAME: Windows Search
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: XblAuthManager
-DISPLAY_NAME: Gestionnaire d'authentification Xbox Live
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: cbdhsvc_a5b79
-DISPLAY_NAME: Service utilisateur du Presse-papiers_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: CDPUserSvc_a5b79
-DISPLAY_NAME: Service pour utilisateur de plateforme d'appareils connectÇs_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: NPSMSvc_a5b79
-DISPLAY_NAME: Lecture en cours du service du Responsable de la session_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: OneSyncSvc_a5b79
-DISPLAY_NAME: Hìte de synchronisation_a5b79
-        TYPE               : e0  USER_SHARE_PROCESS INSTANCE  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: UdkUserSvc_a5b79
-DISPLAY_NAME: Service utilisateur du kit de dÇveloppement sans station d'accueil_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: webthreatdefusersvc_a5b79
-DISPLAY_NAME: Service d'utilisateur Web Threat Defense_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: WpnUserService_a5b79
-DISPLAY_NAME: Service utilisateur de notifications Push Windows_a5b79
-        TYPE               : f0   ERROR  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-Public IP Address: 82.65.67.118
-Private IP Address: 192.168.1.142
-
-Nom d'hìte:                                 STARMT
-Nom du systäme d'exploitation:              Microsoft Windows 11 Famille
-Version du systäme d'exploitation:          10.0.26100 N/A build 26100
-Fabricant du systäme d'exploitation:        Microsoft Corporation
-Configuration du systäme d'exploitation:    Station de travail autonome
-Type de build du systäme d'exploitation:    Multiprocessor Free
-PropriÇtaire enregistrÇ:                    martin.pouzaud04@gmail.com
-Organisation enregistrÇe:                   N/A
-ID du produit:                              00325-80000-00000-AAOEM
-Date d'installation originale:              22/07/2025, 21:14:18
-Heure de dÇmarrage du systäme:              26/08/2025, 15:23:45
-Fabricant du systäme:                       Micro-Star International Co., Ltd.
-Modäle du systäme:                          MS-7D22
-Type du systäme:                            x64-based PC
-Processeur(s):                              1 processeur(s) installÇ(s).
-                                            [01]ˇ: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2904 MHz
-Version du BIOS:                            American Megatrends International, LLC. 3.D0, 08/07/2024
-RÇpertoire Windows:                         C:\WINDOWS
-RÇpertoire systäme:                         C:\WINDOWS\system32
-PÇriphÇrique de dÇmarrage:                  \Device\HarddiskVolume1
-Paramätres rÇgionaux systäme:               fr;Franáais (France)
-Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
-Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
-MÇmoire physique totale:                    8ˇ016 Mo
-MÇmoire physique disponible:                1ˇ495 Mo
-MÇmoire virtuelleˇ: taille maximale:        23ˇ376 Mo
-MÇmoire virtuelleˇ: disponible:             8ˇ138 Mo
-MÇmoire virtuelleˇ: en cours d'utilisation: 15ˇ238 Mo
-Emplacement(s) de fichier d'Çchange:        C:\pagefile.sys
-Domaine:                                    WORKGROUP
-Serveur d'ouverture de session:             \\STARMT
-Correctif(s) logiciel(s):                   5 Corrections installÇes.
-                                            [01]: KB5056579
-                                            [02]: KB5050575
-                                            [03]: KB5059093
-                                            [04]: KB5063878
-                                            [05]: KB5065381
-Carte(s) rÇseau:                            2 carte(s) rÇseau installÇe(s).
-                                            [01]: TP-Link Wireless USB Adapter
-                                                  Nom de la connexionˇ: Wi-Fi
-                                                  DHCP activÇˇ:         Oui
-                                                  Serveur DHCPˇ:        192.168.1.254
-                                                  Adresse(s) IP
-                                                  [01]: 192.168.1.142
-                                                  [02]: fe80::de01:d3f0:408:ff1
-                                                  [03]: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239
-                                                  [04]: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62
-                                            [02]: Intel(R) Ethernet Connection (10) I219-V
-                                                  Nom de la connexionˇ: Ethernet
-                                                  êtatˇ:                MÇdia dÇconnectÇ
-SÇcuritÇ basÇe sur la virtualisation:       êtatˇ: Non activÇ
-                                            App Control for Business policy: AppliquÇ
-                                            App Control for Business user mode policy: Audit
-                                            FonctionnalitÇs de sÇcuritÇ activÇesˇ:
-Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ordinateur virtuelˇ: Oui
-                                            Virtualisation activÇe dans le microprogrammeˇ: Oui
-                                            Traduction d'adresse de second niveauˇ: Oui
-                                            PrÇvention de l'exÇcution des donnÇes disponibleˇ: Oui
-
-Nom de l'image                 PID Nom de la sessio NumÇro de s Utilisation 
-========================= ======== ================ =========== ============
-System Idle Process              0 Services                   0         8 Ko
-System                           4 Services                   0    15ˇ264 Ko
-Registry                       224 Services                   0    39ˇ884 Ko
-smss.exe                       704 Services                   0       364 Ko
-csrss.exe                      796 Services                   0     4ˇ092 Ko
-wininit.exe                   1076 Services                   0     3ˇ532 Ko
-csrss.exe                     1084 Console                    1     4ˇ432 Ko
-winlogon.exe                  1144 Console                    1     6ˇ648 Ko
-services.exe                  1224 Services                   0    10ˇ824 Ko
-lsass.exe                     1244 Services                   0    19ˇ756 Ko
-svchost.exe                   1380 Services                   0    23ˇ440 Ko
-fontdrvhost.exe               1412 Services                   0     1ˇ512 Ko
-fontdrvhost.exe               1420 Console                    1     3ˇ164 Ko
-svchost.exe                   1504 Services                   0    15ˇ472 Ko
-svchost.exe                   1560 Services                   0     6ˇ268 Ko
-dwm.exe                       1640 Console                    1   434ˇ676 Ko
-svchost.exe                   1720 Services                   0    20ˇ540 Ko
-svchost.exe                   1848 Services                   0    10ˇ020 Ko
+fontdrvhost.exe               1420 Console                    1     3ˇ192 Ko
+svchost.exe                   1504 Services                   0    15ˇ116 Ko
+svchost.exe                   1560 Services                   0     6ˇ252 Ko
+dwm.exe                       1640 Console                    1   434ˇ736 Ko
+svchost.exe                   1720 Services                   0    20ˇ636 Ko
+svchost.exe                   1848 Services                   0    10ˇ024 Ko
 svchost.exe                   1884 Services                   0    12ˇ200 Ko
-svchost.exe                   1904 Services                   0    12ˇ760 Ko
-svchost.exe                   1936 Services                   0     7ˇ348 Ko
+svchost.exe                   1904 Services                   0    12ˇ664 Ko
+svchost.exe                   1936 Services                   0     7ˇ336 Ko
 IntelCpHDCPSvc.exe            1960 Services                   0     5ˇ640 Ko
-svchost.exe                   1996 Services                   0     2ˇ580 Ko
-svchost.exe                   1088 Services                   0     7ˇ652 Ko
-svchost.exe                   1320 Services                   0     5ˇ024 Ko
-svchost.exe                   2112 Services                   0    12ˇ620 Ko
+svchost.exe                   1996 Services                   0     2ˇ564 Ko
+svchost.exe                   1088 Services                   0     7ˇ648 Ko
+svchost.exe                   1320 Services                   0     5ˇ100 Ko
+svchost.exe                   2112 Services                   0    12ˇ572 Ko
 IntelCpHeciSvc.exe            2120 Services                   0     3ˇ600 Ko
-svchost.exe                   2156 Services                   0    10ˇ852 Ko
+svchost.exe                   2156 Services                   0    10ˇ864 Ko
 svchost.exe                   2196 Services                   0     4ˇ260 Ko
-svchost.exe                   2336 Services                   0     3ˇ368 Ko
-NVDisplay.Container.exe       2420 Services                   0    18ˇ312 Ko
-svchost.exe                   2540 Services                   0     9ˇ260 Ko
-svchost.exe                   2572 Services                   0    15ˇ992 Ko
-svchost.exe                   2624 Services                   0     4ˇ884 Ko
-svchost.exe                   2632 Services                   0    11ˇ792 Ko
-svchost.exe                   2640 Services                   0     7ˇ636 Ko
-Memory Compression            2808 Services                   0   179ˇ620 Ko
+svchost.exe                   2336 Services                   0     3ˇ352 Ko
+NVDisplay.Container.exe       2420 Services                   0    18ˇ220 Ko
+svchost.exe                   2540 Services                   0     9ˇ620 Ko
+svchost.exe                   2572 Services                   0    16ˇ368 Ko
+svchost.exe                   2624 Services                   0     4ˇ892 Ko
+svchost.exe                   2632 Services                   0    11ˇ836 Ko
+svchost.exe                   2640 Services                   0     7ˇ620 Ko
+Memory Compression            2808 Services                   0   177ˇ908 Ko
 svchost.exe                   2852 Services                   0     9ˇ024 Ko
 igfxCUIService.exe            2936 Services                   0     4ˇ880 Ko
-svchost.exe                   2972 Services                   0     4ˇ024 Ko
-svchost.exe                   2980 Services                   0     5ˇ640 Ko
-svchost.exe                   3068 Services                   0    11ˇ936 Ko
-svchost.exe                   2564 Services                   0     6ˇ696 Ko
-svchost.exe                   3084 Services                   0     4ˇ108 Ko
-svchost.exe                   3092 Services                   0     4ˇ208 Ko
-svchost.exe                   3232 Services                   0     5ˇ096 Ko
-svchost.exe                   3260 Services                   0    21ˇ736 Ko
-svchost.exe                   3356 Services                   0     6ˇ180 Ko
-svchost.exe                   3556 Services                   0    13ˇ888 Ko
-svchost.exe                   3596 Services                   0     6ˇ072 Ko
-svchost.exe                   3644 Services                   0     3ˇ756 Ko
+svchost.exe                   2972 Services                   0     3ˇ992 Ko
+svchost.exe                   2980 Services                   0     5ˇ544 Ko
+svchost.exe                   3068 Services                   0    11ˇ928 Ko
+svchost.exe                   2564 Services                   0     6ˇ680 Ko
+svchost.exe                   3084 Services                   0     4ˇ272 Ko
+svchost.exe                   3092 Services                   0     4ˇ228 Ko
+svchost.exe                   3232 Services                   0     5ˇ200 Ko
+svchost.exe                   3260 Services                   0    21ˇ740 Ko
+svchost.exe                   3356 Services                   0     6ˇ164 Ko
+svchost.exe                   3556 Services                   0    13ˇ964 Ko
+svchost.exe                   3596 Services                   0     6ˇ048 Ko
+svchost.exe                   3644 Services                   0     3ˇ804 Ko
 spoolsv.exe                   3704 Services                   0     7ˇ384 Ko
-svchost.exe                   3764 Services                   0    14ˇ180 Ko
-NVDisplay.Container.exe       3812 Console                    1    26ˇ500 Ko
+svchost.exe                   3764 Services                   0    14ˇ188 Ko
+NVDisplay.Container.exe       3812 Console                    1    26ˇ396 Ko
 svchost.exe                   3840 Services                   0     4ˇ208 Ko
-svchost.exe                   3876 Services                   0    22ˇ188 Ko
-svchost.exe                   4132 Services                   0    46ˇ840 Ko
-OneApp.IGCC.WinService.ex     4144 Services                   0    24ˇ636 Ko
-svchost.exe                   4152 Services                   0     6ˇ812 Ko
+svchost.exe                   3876 Services                   0    21ˇ260 Ko
+svchost.exe                   4132 Services                   0    46ˇ832 Ko
+OneApp.IGCC.WinService.ex     4144 Services                   0    24ˇ620 Ko
+svchost.exe                   4152 Services                   0     6ˇ816 Ko
 svchost.exe                   4168 Services                   0     2ˇ496 Ko
-svchost.exe                   4176 Services                   0     3ˇ944 Ko
-svchost.exe                   4184 Services                   0    17ˇ944 Ko
-svchost.exe                   4196 Services                   0    20ˇ860 Ko
+svchost.exe                   4176 Services                   0     3ˇ928 Ko
+svchost.exe                   4184 Services                   0    17ˇ952 Ko
+svchost.exe                   4196 Services                   0    21ˇ120 Ko
 jhi_service.exe               4204 Services                   0     2ˇ524 Ko
-RtkAudUService64.exe          4216 Services                   0     8ˇ436 Ko
+RtkAudUService64.exe          4216 Services                   0     8ˇ404 Ko
 WMIRegistrationService.ex     4236 Services                   0     6ˇ076 Ko
-MpDefenderCoreService.exe     4260 Services                   0    22ˇ904 Ko
-MsMpEng.exe                   4272 Services                   0   151ˇ932 Ko
-svchost.exe                   4576 Services                   0     7ˇ884 Ko
-svchost.exe                   5436 Services                   0    15ˇ732 Ko
-svchost.exe                   5444 Services                   0    48ˇ580 Ko
-gamingservices.exe            5540 Services                   0    31ˇ472 Ko
-gamingservicesnet.exe         5548 Services                   0     4ˇ076 Ko
-AggregatorHost.exe            5244 Services                   0     6ˇ844 Ko
-svchost.exe                   3400 Services                   0     6ˇ628 Ko
-svchost.exe                   6292 Services                   0     5ˇ112 Ko
-svchost.exe                   6352 Services                   0     5ˇ872 Ko
-svchost.exe                   6672 Services                   0     2ˇ124 Ko
-svchost.exe                   5752 Services                   0     7ˇ992 Ko
-svchost.exe                   6620 Services                   0    30ˇ184 Ko
-svchost.exe                   7236 Services                   0     2ˇ836 Ko
-svchost.exe                   7468 Services                   0     2ˇ556 Ko
-sihost.exe                    7692 Console                    1    27ˇ696 Ko
-svchost.exe                   7772 Console                    1    24ˇ400 Ko
+MpDefenderCoreService.exe     4260 Services                   0    23ˇ148 Ko
+MsMpEng.exe                   4272 Services                   0   151ˇ828 Ko
+svchost.exe                   4576 Services                   0     7ˇ880 Ko
+svchost.exe                   5436 Services                   0    15ˇ628 Ko
+svchost.exe                   5444 Services                   0    48ˇ604 Ko
+gamingservices.exe            5540 Services                   0    31ˇ576 Ko
+gamingservicesnet.exe         5548 Services                   0     4ˇ088 Ko
+AggregatorHost.exe            5244 Services                   0     6ˇ932 Ko
+svchost.exe                   3400 Services                   0     6ˇ644 Ko
+svchost.exe                   6292 Services                   0     5ˇ064 Ko
+svchost.exe                   6352 Services                   0     5ˇ840 Ko
+svchost.exe                   6672 Services                   0     2ˇ112 Ko
+svchost.exe                   5752 Services                   0     7ˇ988 Ko
+svchost.exe                   6620 Services                   0    30ˇ188 Ko
+svchost.exe                   7236 Services                   0     2ˇ816 Ko
+svchost.exe                   7468 Services                   0     2ˇ552 Ko
+sihost.exe                    7692 Console                    1    28ˇ248 Ko
+svchost.exe                   7772 Console                    1    24ˇ408 Ko
 PresentationFontCache.exe     7792 Services                   0     6ˇ256 Ko
-svchost.exe                   7844 Console                    1     8ˇ612 Ko
-svchost.exe                   7880 Console                    1    22ˇ056 Ko
-taskhostw.exe                 7932 Console                    1    12ˇ268 Ko
-svchost.exe                   8008 Services                   0    19ˇ984 Ko
-svchost.exe                   6156 Services                   0    12ˇ444 Ko
+svchost.exe                   7844 Console                    1     8ˇ600 Ko
+svchost.exe                   7880 Console                    1    22ˇ096 Ko
+taskhostw.exe                 7932 Console                    1    13ˇ440 Ko
+svchost.exe                   8008 Services                   0    19ˇ648 Ko
+svchost.exe                   6156 Services                   0    12ˇ924 Ko
 igfxEM.exe                    7424 Console                    1     6ˇ800 Ko
-explorer.exe                  7556 Console                    1   354ˇ248 Ko
-ShellHost.exe                 7660 Console                    1    16ˇ204 Ko
-svchost.exe                   8400 Console                    1    14ˇ536 Ko
-svchost.exe                   8480 Services                   0    13ˇ496 Ko
-SearchHost.exe                8824 Console                    1    38ˇ968 Ko
-StartMenuExperienceHost.e     8832 Console                    1    69ˇ976 Ko
+explorer.exe                  7556 Console                    1   338ˇ308 Ko
+ShellHost.exe                 7660 Console                    1    16ˇ224 Ko
+svchost.exe                   8400 Console                    1    14ˇ552 Ko
+svchost.exe                   8480 Services                   0    13ˇ460 Ko
+SearchHost.exe                8824 Console                    1    38ˇ988 Ko
+StartMenuExperienceHost.e     8832 Console                    1    69ˇ984 Ko
 UserOOBEBroker.exe            9060 Console                    1     4ˇ092 Ko
-RuntimeBroker.exe             9088 Console                    1    22ˇ668 Ko
-svchost.exe                   9096 Console                    1     8ˇ032 Ko
-SearchIndexer.exe             8188 Services                   0    36ˇ900 Ko
-msedgewebview2.exe            9592 Console                    1    42ˇ516 Ko
-msedgewebview2.exe            9644 Console                    1     3ˇ472 Ko
-msedgewebview2.exe            9828 Console                    1    18ˇ464 Ko
-msedgewebview2.exe            9856 Console                    1    22ˇ812 Ko
+RuntimeBroker.exe             9088 Console                    1    22ˇ584 Ko
+svchost.exe                   9096 Console                    1     7ˇ980 Ko
+SearchIndexer.exe             8188 Services                   0    29ˇ892 Ko
+msedgewebview2.exe            9592 Console                    1    42ˇ532 Ko
+msedgewebview2.exe            9644 Console                    1     3ˇ460 Ko
+msedgewebview2.exe            9828 Console                    1    18ˇ756 Ko
+msedgewebview2.exe            9856 Console                    1    22ˇ808 Ko
 msedgewebview2.exe            9936 Console                    1     7ˇ184 Ko
 msedgewebview2.exe           10100 Console                    1    31ˇ216 Ko
 backgroundTaskHost.exe       10576 Console                    1     2ˇ596 Ko
-ctfmon.exe                   10308 Console                    1    33ˇ936 Ko
-PhoneExperienceHost.exe      10832 Console                    1   150ˇ260 Ko
-smartscreen.exe               5976 Console                    1     9ˇ552 Ko
-RtkAudUService64.exe          5896 Console                    1     8ˇ728 Ko
-opera.exe                     2664 Console                    1   227ˇ460 Ko
+ctfmon.exe                   10308 Console                    1    33ˇ924 Ko
+PhoneExperienceHost.exe      10832 Console                    1   150ˇ272 Ko
+smartscreen.exe               5976 Console                    1     9ˇ448 Ko
+RtkAudUService64.exe          5896 Console                    1     8ˇ696 Ko
+opera.exe                     2664 Console                    1   229ˇ320 Ko
 svchost.exe                   2680 Services                   0    11ˇ212 Ko
-opera_crashreporter.exe       3248 Console                    1     7ˇ252 Ko
-opera.exe                     1944 Console                    1   193ˇ620 Ko
-opera.exe                     1900 Console                    1    49ˇ208 Ko
+opera_crashreporter.exe       3248 Console                    1     7ˇ260 Ko
+opera.exe                     1944 Console                    1   184ˇ696 Ko
+opera.exe                     1900 Console                    1    49ˇ216 Ko
 opera.exe                    11292 Console                    1    20ˇ320 Ko
-opera.exe                    11392 Console                    1    88ˇ980 Ko
+opera.exe                    11392 Console                    1    89ˇ036 Ko
 opera.exe                    11424 Console                    1    50ˇ020 Ko
 opera.exe                    11472 Console                    1    79ˇ260 Ko
-opera.exe                    11736 Console                    1   101ˇ980 Ko
-opera.exe                    11752 Console                    1   109ˇ756 Ko
-opera.exe                    11840 Console                    1    65ˇ236 Ko
-opera.exe                    12080 Console                    1    65ˇ136 Ko
-opera.exe                    12124 Console                    1    84ˇ940 Ko
+opera.exe                    11736 Console                    1   101ˇ984 Ko
+opera.exe                    11752 Console                    1   110ˇ228 Ko
+opera.exe                    11840 Console                    1    66ˇ348 Ko
+opera.exe                    12080 Console                    1    65ˇ196 Ko
+opera.exe                    12124 Console                    1    84ˇ960 Ko
 opera.exe                    12164 Console                    1    64ˇ624 Ko
-opera.exe                    11744 Console                    1    20ˇ900 Ko
+opera.exe                    11744 Console                    1    20ˇ868 Ko
 opera.exe                    12352 Console                    1    79ˇ304 Ko
 opera.exe                    13068 Console                    1    51ˇ936 Ko
-opera.exe                    13216 Console                    1   119ˇ688 Ko
-opera.exe                     7404 Console                    1   109ˇ320 Ko
+opera.exe                    13216 Console                    1   119ˇ764 Ko
+opera.exe                     7404 Console                    1   110ˇ188 Ko
 opera.exe                    12920 Console                    1    92ˇ520 Ko
-opera.exe                    13024 Console                    1   202ˇ784 Ko
-SecurityHealthService.exe    14124 Services                   0    26ˇ544 Ko
-MpCmdRun.exe                 14264 Services                   0    16ˇ640 Ko
-svchost.exe                  13660 Services                   0    11ˇ128 Ko
-svchost.exe                  13776 Services                   0    23ˇ456 Ko
-svchost.exe                   3444 Services                   0    14ˇ808 Ko
+opera.exe                    13024 Console                    1   202ˇ804 Ko
+SecurityHealthService.exe    14124 Services                   0    26ˇ436 Ko
+svchost.exe                  13660 Services                   0    11ˇ144 Ko
+svchost.exe                  13776 Services                   0    23ˇ448 Ko
+svchost.exe                   3444 Services                   0    15ˇ136 Ko
 svchost.exe                  11000 Services                   0    16ˇ856 Ko
-svchost.exe                  10772 Services                   0    13ˇ660 Ko
-svchost.exe                  10564 Console                    1    14ˇ980 Ko
-opera.exe                     5524 Console                    1   305ˇ176 Ko
+svchost.exe                  10772 Services                   0    13ˇ596 Ko
+svchost.exe                  10564 Console                    1    14ˇ984 Ko
+opera.exe                     5524 Console                    1   281ˇ392 Ko
 opera.exe                    14304 Console                    1    29ˇ960 Ko
 SystemSettings.exe            7520 Console                    1   126ˇ160 Ko
-ApplicationFrameHost.exe      3604 Console                    1    62ˇ048 Ko
-svchost.exe                   9976 Console                    1    16ˇ416 Ko
+ApplicationFrameHost.exe      3604 Console                    1    61ˇ824 Ko
+svchost.exe                   9976 Console                    1    16ˇ440 Ko
 svchost.exe                   2928 Services                   0     8ˇ780 Ko
-svchost.exe                  13424 Services                   0    15ˇ736 Ko
-svchost.exe                  14284 Services                   0    15ˇ960 Ko
-svchost.exe                  13472 Services                   0    17ˇ332 Ko
-svchost.exe                   2768 Services                   0     9ˇ076 Ko
-svchost.exe                   2532 Services                   0     9ˇ756 Ko
+svchost.exe                  13424 Services                   0    15ˇ732 Ko
+svchost.exe                  14284 Services                   0    16ˇ244 Ko
+svchost.exe                  13472 Services                   0    17ˇ188 Ko
+svchost.exe                   2768 Services                   0     9ˇ052 Ko
 svchost.exe                  12768 Services                   0    15ˇ976 Ko
-audiodg.exe                   8064 Services                   0    19ˇ360 Ko
-Discord.exe                   2660 Console                    1   156ˇ488 Ko
+audiodg.exe                   8064 Services                   0    19ˇ332 Ko
+Discord.exe                   2660 Console                    1   156ˇ552 Ko
 Discord.exe                  11072 Console                    1    15ˇ968 Ko
-Discord.exe                  10868 Console                    1   204ˇ012 Ko
-Discord.exe                  11144 Console                    1    35ˇ444 Ko
-Discord.exe                   7248 Console                    1   414ˇ020 Ko
-Discord.exe                   4660 Console                    1    36ˇ060 Ko
-RuntimeBroker.exe            13016 Console                    1    32ˇ472 Ko
-StoreDesktopExtension.exe     2272 Console                    1    32ˇ632 Ko
+Discord.exe                  10868 Console                    1   203ˇ224 Ko
+Discord.exe                  11144 Console                    1    35ˇ464 Ko
+Discord.exe                   7248 Console                    1   412ˇ508 Ko
+Discord.exe                   4660 Console                    1    36ˇ028 Ko
+RuntimeBroker.exe            13016 Console                    1    32ˇ488 Ko
+StoreDesktopExtension.exe     2272 Console                    1    32ˇ656 Ko
 WinStore.App.exe              6032 Console                    1   100ˇ988 Ko
-Taskmgr.exe                   7824 Console                    1   161ˇ280 Ko
-opera.exe                     2716 Console                    1   138ˇ800 Ko
-opera.exe                    14832 Console                    1    39ˇ272 Ko
-svchost.exe                   7748 Services                   0    12ˇ348 Ko
-WmiPrvSE.exe                  6376 Services                   0    25ˇ220 Ko
+Taskmgr.exe                   7824 Console                    1   165ˇ460 Ko
+opera.exe                     2716 Console                    1   138ˇ712 Ko
+opera.exe                    14832 Console                    1    39ˇ284 Ko
+svchost.exe                   7748 Services                   0    12ˇ296 Ko
+WmiPrvSE.exe                  6376 Services                   0    26ˇ200 Ko
 keylogger.exe                14732 Console                    1     9ˇ168 Ko
-keylogger.exe                13648 Console                    1    82ˇ032 Ko
-SearchProtocolHost.exe        1868 Services                   0    16ˇ140 Ko
-WmiPrvSE.exe                  5224 Services                   0    12ˇ220 Ko
-SearchFilterHost.exe          6416 Services                   0    12ˇ384 Ko
-SearchFilterHost.exe          1780 Services                   0    11ˇ856 Ko
-TrustedInstaller.exe         13436 Services                   0    10ˇ296 Ko
-TiWorker.exe                  3900 Services                   0    19ˇ288 Ko
-svchost.exe                   6924 Services                   0    19ˇ020 Ko
-keylogger.exe                 2608 Console                    1    81ˇ800 Ko
-keylogger.exe                10268 Console                    1    81ˇ208 Ko
-keylogger.exe                 3304 Console                    1    81ˇ420 Ko
-keylogger.exe                 9264 Console                    1    80ˇ892 Ko
-keylogger.exe                15300 Console                    1    82ˇ588 Ko
+keylogger.exe                13648 Console                    1    82ˇ020 Ko
+SearchProtocolHost.exe        1868 Services                   0    14ˇ876 Ko
+WmiPrvSE.exe                  5224 Services                   0    12ˇ908 Ko
+SearchFilterHost.exe          6416 Services                   0    12ˇ168 Ko
+SearchFilterHost.exe          1780 Services                   0    11ˇ484 Ko
+TrustedInstaller.exe         13436 Services                   0    10ˇ244 Ko
+TiWorker.exe                  3900 Services                   0    19ˇ184 Ko
+keylogger.exe                 2608 Console                    1    81ˇ916 Ko
+keylogger.exe                10268 Console                    1    81ˇ316 Ko
+keylogger.exe                 3304 Console                    1    81ˇ388 Ko
+keylogger.exe                 9264 Console                    1    80ˇ860 Ko
+keylogger.exe                15300 Console                    1    82ˇ556 Ko
 keylogger.exe                 4656 Console                    1    80ˇ764 Ko
-backgroundTaskHost.exe        1608 Console                    1    32ˇ136 Ko
-keylogger.exe                14644 Console                    1    81ˇ428 Ko
-keylogger.exe                 2696 Console                    1    81ˇ876 Ko
-svchost.exe                   3292 Services                   0    11ˇ844 Ko
-keylogger.exe                 6996 Console                    1    81ˇ212 Ko
-keylogger.exe                 7708 Console                    1    81ˇ160 Ko
-keylogger.exe                 7956 Console                    1    81ˇ240 Ko
-keylogger.exe                12996 Console                    1    81ˇ176 Ko
-keylogger.exe                 9744 Console                    1    83ˇ368 Ko
-keylogger.exe                 2024 Console                    1    80ˇ576 Ko
-keylogger.exe                 6740 Console                    1    80ˇ392 Ko
-cmd.exe                       7820 Console                    1     5ˇ480 Ko
-conhost.exe                  10320 Console                    1     9ˇ584 Ko
-NETSTAT.EXE                   6192 Console                    1     7ˇ336 Ko
-keylogger.exe                 8616 Console                    1    80ˇ528 Ko
-cmd.exe                       3128 Console                    1     5ˇ480 Ko
-conhost.exe                  15044 Console                    1     9ˇ596 Ko
-NETSTAT.EXE                  14672 Console                    1     7ˇ320 Ko
-taskhostw.exe                10860 Console                    1    27ˇ568 Ko
-svchost.exe                  12648 Services                   0     7ˇ200 Ko
-svchost.exe                  14840 Services                   0    34ˇ512 Ko
-keylogger.exe                 3404 Console                    1    80ˇ392 Ko
-cmd.exe                      12664 Console                    1     5ˇ500 Ko
-conhost.exe                   7720 Console                    1     9ˇ624 Ko
-NETSTAT.EXE                   4808 Console                    1     7ˇ344 Ko
-backgroundTaskHost.exe       14488 Console                    1    43ˇ052 Ko
+backgroundTaskHost.exe        1608 Console                    1    22ˇ868 Ko
+keylogger.exe                14644 Console                    1    81ˇ388 Ko
+keylogger.exe                 2696 Console                    1    80ˇ852 Ko
+svchost.exe                   3292 Services                   0    11ˇ824 Ko
+keylogger.exe                 6996 Console                    1    81ˇ192 Ko
+keylogger.exe                 7708 Console                    1    81ˇ128 Ko
+keylogger.exe                 7956 Console                    1    81ˇ216 Ko
+keylogger.exe                12996 Console                    1    81ˇ260 Ko
+taskhostw.exe                10860 Console                    1    27ˇ312 Ko
+svchost.exe                  12648 Services                   0     7ˇ136 Ko
+svchost.exe                  14840 Services                   0    33ˇ884 Ko
+keylogger.exe                 3404 Console                    1    80ˇ388 Ko
 backgroundTaskHost.exe        1876 Console                    1    24ˇ712 Ko
-backgroundTaskHost.exe        6160 Console                    1    17ˇ884 Ko
-RuntimeBroker.exe             6272 Console                    1    38ˇ048 Ko
-RuntimeBroker.exe             4608 Console                    1    10ˇ448 Ko
-keylogger.exe                 5568 Console                    1    80ˇ476 Ko
-keylogger.exe                15004 Console                    1    80ˇ132 Ko
-cmd.exe                       4292 Console                    1     5ˇ500 Ko
-conhost.exe                  13872 Console                    1     9ˇ572 Ko
+RuntimeBroker.exe             6272 Console                    1    47ˇ392 Ko
+RuntimeBroker.exe             4608 Console                    1    10ˇ464 Ko
+keylogger.exe                 5568 Console                    1    80ˇ472 Ko
+keylogger.exe                15004 Console                    1    80ˇ852 Ko
+cmd.exe                       4292 Console                    1     5ˇ484 Ko
+conhost.exe                  13872 Console                    1     9ˇ556 Ko
 NETSTAT.EXE                  10708 Console                    1     7ˇ332 Ko
-cmd.exe                      14076 Console                    1     5ˇ532 Ko
-conhost.exe                  15180 Console                    1     9ˇ588 Ko
-tasklist.exe                 14936 Console                    1    12ˇ276 Ko
-cmd.exe                       9280 Console                    1     5ˇ516 Ko
-conhost.exe                   8284 Console                    1     9ˇ572 Ko
-netsh.exe                    15296 Console                    1     1ˇ916 Ko
+cmd.exe                       3780 Console                    1     5ˇ484 Ko
+conhost.exe                   3388 Console                    1     9ˇ592 Ko
+NETSTAT.EXE                  14824 Console                    1     7ˇ336 Ko
+keylogger.exe                 3328 Console                    1    80ˇ344 Ko
+cmd.exe                       3308 Console                    1     5ˇ484 Ko
+conhost.exe                   4924 Console                    1     9ˇ588 Ko
+NETSTAT.EXE                   9876 Console                    1     7ˇ332 Ko
+keylogger.exe                 4968 Console                    1    80ˇ572 Ko
+cmd.exe                       3364 Console                    1     5ˇ484 Ko
+conhost.exe                   7340 Console                    1     9ˇ592 Ko
+NETSTAT.EXE                  12888 Console                    1     7ˇ336 Ko
+keylogger.exe                 8472 Console                    1    80ˇ444 Ko
+keylogger.exe                 5092 Console                    1    80ˇ656 Ko
+keylogger.exe                14208 Console                    1    80ˇ676 Ko
+cmd.exe                      13940 Console                    1     5ˇ484 Ko
+conhost.exe                  15008 Console                    1     9ˇ556 Ko
+NETSTAT.EXE                    640 Console                    1     7ˇ340 Ko
+cmd.exe                      13372 Console                    1     5ˇ484 Ko
+conhost.exe                  15180 Console                    1     9ˇ560 Ko
+NETSTAT.EXE                   8108 Console                    1     7ˇ332 Ko
+cmd.exe                       8460 Console                    1     5ˇ484 Ko
+conhost.exe                   6248 Console                    1     9ˇ552 Ko
+NETSTAT.EXE                  10652 Console                    1     7ˇ332 Ko
+keylogger.exe                14224 Console                    1    80ˇ388 Ko
+keylogger.exe                 5688 Console                    1    80ˇ936 Ko
+cmd.exe                      15368 Console                    1     5ˇ484 Ko
+conhost.exe                  15376 Console                    1     9ˇ596 Ko
+NETSTAT.EXE                  15412 Console                    1     7ˇ332 Ko
+keylogger.exe                15532 Console                    1    80ˇ604 Ko
+cmd.exe                      16052 Console                    1     5ˇ484 Ko
+conhost.exe                  16060 Console                    1     9ˇ576 Ko
+NETSTAT.EXE                  16100 Console                    1     7ˇ328 Ko
+cmd.exe                       3112 Console                    1     5ˇ480 Ko
+conhost.exe                  14980 Console                    1     9ˇ572 Ko
+NETSTAT.EXE                  15432 Console                    1     7ˇ324 Ko
+keylogger.exe                15760 Console                    1    80ˇ216 Ko
+keylogger.exe                15820 Console                    1    80ˇ544 Ko
+cmd.exe                      15672 Console                    1     5ˇ484 Ko
+conhost.exe                  15648 Console                    1     9ˇ596 Ko
+NETSTAT.EXE                  15720 Console                    1     7ˇ336 Ko
+cmd.exe                      15988 Console                    1     5ˇ484 Ko
+conhost.exe                  15948 Console                    1     9ˇ564 Ko
+NETSTAT.EXE                  16016 Console                    1     7ˇ328 Ko
+keylogger.exe                15976 Console                    1    80ˇ836 Ko
+keylogger.exe                 5472 Console                    1    80ˇ100 Ko
+MoUsoCoreWorker.exe           5456 Services                   0    33ˇ608 Ko
+cmd.exe                       7816 Console                    1     5ˇ484 Ko
+conhost.exe                   7876 Console                    1     9ˇ560 Ko
+NETSTAT.EXE                   3200 Console                    1     7ˇ344 Ko
+svchost.exe                  15512 Services                   0    22ˇ892 Ko
+keylogger.exe                15812 Console                    1    80ˇ500 Ko
+cmd.exe                      16396 Console                    1     5ˇ488 Ko
+conhost.exe                  16404 Console                    1     9ˇ532 Ko
+NETSTAT.EXE                  16440 Console                    1     7ˇ340 Ko
+cmd.exe                      16940 Console                    1     5ˇ484 Ko
+conhost.exe                  16948 Console                    1     9ˇ568 Ko
+NETSTAT.EXE                  16988 Console                    1     7ˇ324 Ko
+keylogger.exe                17168 Console                    1    80ˇ484 Ko
+cmd.exe                       7540 Console                    1     5ˇ484 Ko
+conhost.exe                  16236 Console                    1     9ˇ572 Ko
+NETSTAT.EXE                  16288 Console                    1     7ˇ332 Ko
+keylogger.exe                16468 Console                    1    80ˇ708 Ko
+cmd.exe                      17092 Console                    1     5ˇ500 Ko
+conhost.exe                  17104 Console                    1     9ˇ600 Ko
+NETSTAT.EXE                  17064 Console                    1     7ˇ340 Ko
+backgroundTaskHost.exe       17380 Console                    1    24ˇ076 Ko
+RuntimeBroker.exe            16416 Console                    1    18ˇ844 Ko
+cmd.exe                      14392 Console                    1     5ˇ528 Ko
+conhost.exe                   9888 Console                    1     9ˇ600 Ko
+tasklist.exe                  1332 Console                    1    12ˇ272 Ko
 
 SERVICE_NAME: AppIDSvc
 DISPLAY_NAME: IdentitÇ de l'application
@@ -1942,16 +637,6 @@ DISPLAY_NAME: Gaming Services
         TYPE               : 210  WIN32_PACKAGED_PROCESS  
         STATE              : 4  RUNNING 
                                 (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: gpsvc
-DISPLAY_NAME: Client de stratÇgie de groupe
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
         WIN32_EXIT_CODE    : 0  (0x0)
         SERVICE_EXIT_CODE  : 0  (0x0)
         CHECKPOINT         : 0x0
@@ -2467,6 +1152,16 @@ DISPLAY_NAME: Gestionnaire d'informations d'identification
         CHECKPOINT         : 0x0
         WAIT_HINT          : 0x0
 
+SERVICE_NAME: WaaSMedicSvc
+DISPLAY_NAME: WaaSMedicSvc
+        TYPE               : 30  WIN32  
+        STATE              : 4  RUNNING 
+                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
+        WIN32_EXIT_CODE    : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
 SERVICE_NAME: WbioSrvc
 DISPLAY_NAME: Service de biomÇtrie Windows
         TYPE               : 30  WIN32  
@@ -2622,16 +1317,6 @@ DISPLAY_NAME: Windows Search
         TYPE               : 10  WIN32_OWN_PROCESS  
         STATE              : 4  RUNNING 
                                 (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: XblAuthManager
-DISPLAY_NAME: Gestionnaire d'authentification Xbox Live
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
         WIN32_EXIT_CODE    : 0  (0x0)
         SERVICE_EXIT_CODE  : 0  (0x0)
         CHECKPOINT         : 0x0
