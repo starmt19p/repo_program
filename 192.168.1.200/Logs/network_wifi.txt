@@ -107,7 +107,7 @@ Carte r‚seau sans fil Wi-Fiÿ:
    Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.200(pr‚f‚r‚) 
    Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
    Bail obtenu. . . . . . . . .ÿ. . . . . : mardi 26 ao–t 2025 12:19:59
-   Bail expirant. . . . . . . . .ÿ. . . . : mercredi 27 ao–t 2025 00:19:59
+   Bail expirant. . . . . . . . .ÿ. . . . : mercredi 27 ao–t 2025 00:19:58
    Passerelle par d‚faut. . . .ÿ. . . . . : fe80::de00:b0ff:fe60:144c%20
 	                               192.168.1.254
    Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
@@ -191,9 +191,9 @@ Connexions actives
   TCP    0.0.0.0:49668          Starmt19:0             LISTENING
   TCP    0.0.0.0:49670          Starmt19:0             LISTENING
   TCP    192.168.1.200:139      Starmt19:0             LISTENING
-  TCP    192.168.1.200:50304    lb-140-82-112-25-iad:https  ESTABLISHED
-  TCP    192.168.1.200:50311    40.79.197.35:https     ESTABLISHED
-  TCP    192.168.1.200:50312    40.79.197.35:https     ESTABLISHED
+  TCP    192.168.1.200:50583    lb-140-82-113-25-iad:https  ESTABLISHED
+  TCP    192.168.1.200:50589    lb-140-82-121-3-fra:https  ESTABLISHED
+  TCP    192.168.1.200:50596    20.42.65.89:https      ESTABLISHED
   TCP    [::]:135               Starmt19:0             LISTENING
   TCP    [::]:445               Starmt19:0             LISTENING
   TCP    [::]:4221              Starmt19:0             LISTENING
@@ -206,7 +206,6 @@ Connexions actives
   TCP    [::1]:49669            Starmt19:0             LISTENING
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49408  [2603:1020:805:3::401]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49917  wb-in-f188:5228        ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50265  [2606:4700:4400::ac40:9bd1]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50267  whatsapp-cdn6-shv-03-cdg4:https  CLOSE_WAIT
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50268  whatsapp-cdn6-shv-02-cdg4:https  CLOSE_WAIT
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50269  whatsapp-cdn6-shv-01-lhr6:https  CLOSE_WAIT
@@ -217,15 +216,15 @@ Connexions actives
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50274  whatsapp-cdn6-shv-02-lhr6:https  CLOSE_WAIT
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50288  [2606:4700:4400::ac40:94eb]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50303  [2606:50c0:8003::154]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50305  par21s20-in-x05:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50313  [2620:1ec:bdf::76]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50420  par21s23-in-x05:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:50590  vip01:https            ESTABLISHED
   UDP    0.0.0.0:5050           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5355           *:*                    
-  UDP    0.0.0.0:56930          0.0.32.3:443           
-  UDP    0.0.0.0:64302          *:*                    
+  UDP    0.0.0.0:63517          0.0.32.3:443           
+  UDP    0.0.0.0:63998          *:*                    
   UDP    0.0.0.0:65270          0.0.32.10:443          
   UDP    127.0.0.1:1900         *:*                    
   UDP    127.0.0.1:49664        127.0.0.1:49664        
@@ -237,8 +236,8 @@ Connexions actives
   UDP    [::]:5353              *:*                    
   UDP    [::]:5353              *:*                    
   UDP    [::]:5355              *:*                    
-  UDP    [::]:56930             [2a00:1450:4007:806::2003]:443  
-  UDP    [::]:64302             *:*                    
+  UDP    [::]:63517             [2a00:1450:4007:805::2003]:443  
+  UDP    [::]:63998             *:*                    
   UDP    [::]:65270             [2a00:1450:4007:80c::200a]:443  
   UDP    [::1]:1900             *:*                    
   UDP    [::1]:61836            *:*                    
