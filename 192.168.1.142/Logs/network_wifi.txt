@@ -651,3 +651,48 @@ Connexions actives
   TCP    192.168.1.142:50132    51.104.136.2:https     TIME_WAIT
   TCP    192.168.1.142:50136    51.104.136.2:https     TIME_WAIT
   TCP    192.168.1.142:50143    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50144    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50146    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50156    lb-140-82-113-26-iad:https  ESTABLISHED
+  TCP    [::]:135               Starmt:0               LISTENING
+  TCP    [::]:445               Starmt:0               LISTENING
+  TCP    [::]:7680              Starmt:0               LISTENING
+  TCP    [::]:49664             Starmt:0               LISTENING
+  TCP    [::]:49665             Starmt:0               LISTENING
+  TCP    [::]:49666             Starmt:0               LISTENING
+  TCP    [::]:49667             Starmt:0               LISTENING
+  TCP    [::]:49668             Starmt:0               LISTENING
+  TCP    [::]:49670             Starmt:0               LISTENING
+  TCP    [::1]:49669            Starmt:0               LISTENING
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49692  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49850  [2a0b:e46:1:100::33]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49851  [2a0b:e46:1:100::56]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49883  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49957  bt1:https              ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49967  [2606:4700::6812:1637]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49984  [2a0b:e46:1:145::5]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49985  [2606:50c0:8000::154]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50003  wh-in-f95:https        ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50148  [2603:1030:807:c::99]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50194  [2a0b:e46:1:100::28]:https  ESTABLISHED
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:61148          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:49793        *:*                    
+  UDP    192.168.1.142:137      *:*                    
+  UDP    192.168.1.142:138      *:*                    
+  UDP    192.168.1.142:1900     *:*                    
+  UDP    192.168.1.142:49792    *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:61148             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:49791            *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:1900  *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:49790  *:*                    
