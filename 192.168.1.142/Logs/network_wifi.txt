@@ -621,3 +621,49 @@ Connexions actives
   TCP    192.168.1.142:50947    104.18.25.17:https     ESTABLISHED
   TCP    192.168.1.142:50950    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51001    lb-140-82-121-4-fra:https  ESTABLISHED
+  TCP    192.168.1.142:51004    20.190.159.129:https   ESTABLISHED
+  TCP    192.168.1.142:51005    a104-75-232-13:http    ESTABLISHED
+  TCP    192.168.1.142:51007    40.122.167.99:https    TIME_WAIT
+  TCP    192.168.1.142:51015    lb-140-82-112-26-iad:https  ESTABLISHED
+  TCP    192.168.1.142:51047    104.26.13.205:https    TIME_WAIT
+  TCP    [::]:135               Starmt:0               LISTENING
+  TCP    [::]:445               Starmt:0               LISTENING
+  TCP    [::]:7680              Starmt:0               LISTENING
+  TCP    [::]:49664             Starmt:0               LISTENING
+  TCP    [::]:49665             Starmt:0               LISTENING
+  TCP    [::]:49666             Starmt:0               LISTENING
+  TCP    [::]:49667             Starmt:0               LISTENING
+  TCP    [::]:49668             Starmt:0               LISTENING
+  TCP    [::]:49670             Starmt:0               LISTENING
+  TCP    [::1]:49669            Starmt:0               LISTENING
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49692  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49850  [2a0b:e46:1:100::33]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49851  [2a0b:e46:1:100::56]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49883  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49957  bt1:https              ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50906  [2606:50c0:8002::154]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50944  [2606:4700::6812:1737]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50997  [2a0b:e46:1:100::28]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:51032  [2603:1063:27:1::14]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:51043  vip01:https            ESTABLISHED
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:53958          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:49793        *:*                    
+  UDP    192.168.1.142:137      *:*                    
+  UDP    192.168.1.142:138      *:*                    
+  UDP    192.168.1.142:1900     *:*                    
+  UDP    192.168.1.142:49792    *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:53958             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:49791            *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:1900  *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:49790  *:*                    
