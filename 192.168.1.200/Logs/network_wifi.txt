@@ -107,7 +107,7 @@ Carte r‚seau sans fil Wi-Fiÿ:
    Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.200(pr‚f‚r‚) 
    Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
    Bail obtenu. . . . . . . . .ÿ. . . . . : mardi 26 ao–t 2025 12:19:59
-   Bail expirant. . . . . . . . .ÿ. . . . : mercredi 27 ao–t 2025 00:19:59
+   Bail expirant. . . . . . . . .ÿ. . . . : mercredi 27 ao–t 2025 00:19:58
    Passerelle par d‚faut. . . .ÿ. . . . . : fe80::de00:b0ff:fe60:144c%20
 	                               192.168.1.254
    Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
@@ -192,10 +192,16 @@ Connexions actives
   TCP    0.0.0.0:49668          Starmt19:0             LISTENING
   TCP    0.0.0.0:49670          Starmt19:0             LISTENING
   TCP    192.168.1.200:139      Starmt19:0             LISTENING
-  TCP    192.168.1.200:51658    cdn-185-199-109-154:https  ESTABLISHED
-  TCP    192.168.1.200:51660    lb-140-82-112-25-iad:https  ESTABLISHED
-  TCP    192.168.1.200:51669    13.89.179.14:https     ESTABLISHED
-  TCP    192.168.1.200:51689    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.200:52140    lb-140-82-113-25-iad:https  ESTABLISHED
+  TCP    192.168.1.200:52179    20.190.160.132:https   TIME_WAIT
+  TCP    192.168.1.200:52183    20.190.160.132:https   TIME_WAIT
+  TCP    192.168.1.200:52185    20.190.160.132:https   TIME_WAIT
+  TCP    192.168.1.200:52189    13.89.179.13:https     TIME_WAIT
+  TCP    192.168.1.200:52194    13.89.179.14:https     ESTABLISHED
+  TCP    192.168.1.200:52195    13.89.179.14:https     ESTABLISHED
+  TCP    192.168.1.200:52198    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.200:52199    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.200:52200    13.89.179.14:https     SYN_SENT
   TCP    [::]:135               Starmt19:0             LISTENING
   TCP    [::]:445               Starmt19:0             LISTENING
   TCP    [::]:4221              Starmt19:0             LISTENING
@@ -209,20 +215,20 @@ Connexions actives
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:49409  [2603:1020:805:3::401]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51263  wh-in-f188:https       ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51264  g2a02-26f0-9100-0028-0000-0000-17c0-ed9d:https  CLOSE_WAIT
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51282  [2606:4700:4400::6812:2715]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51322  [2606:50c0:8003::154]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51417  whatsapp-chatd-edge6-shv-03-cdg4:http  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51674  par21s22-in-x05:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:51683  [2606:4700:4400::ac40:9bd1]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:52178  whatsapp-chatd-edge6-shv-03-cdg4:http  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:52188  par10s49-in-x05:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:52190  [2606:4700:4400::6812:202f]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:52191  [2603:1063:27:2::14]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:38de:2ff:4ca7:9173]:52192  [2606:4700:4400::ac40:94eb]:https  ESTABLISHED
   UDP    0.0.0.0:5050           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5355           *:*                    
   UDP    0.0.0.0:50342          0.0.32.10:443          
-  UDP    0.0.0.0:50343          *:*                    
   UDP    0.0.0.0:57536          *:*                    
-  UDP    0.0.0.0:58252          0.0.32.10:443          
+  UDP    0.0.0.0:58918          *:*                    
   UDP    0.0.0.0:60175          *:*                    
   UDP    0.0.0.0:63504          *:*                    
   UDP    0.0.0.0:63528          *:*                    
@@ -237,9 +243,8 @@ Connexions actives
   UDP    [::]:5353              *:*                    
   UDP    [::]:5355              *:*                    
   UDP    [::]:50342             [2a00:1450:4007:810::200a]:443  
-  UDP    [::]:50343             *:*                    
   UDP    [::]:57536             *:*                    
-  UDP    [::]:58252             [2a00:1450:4007:80c::200a]:443  
+  UDP    [::]:58918             *:*                    
   UDP    [::]:60175             *:*                    
   UDP    [::]:63504             *:*                    
   UDP    [::]:63528             *:*                    
