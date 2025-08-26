@@ -94,6 +94,15 @@ Carte rÇseau sans fil Connexion au rÇseau local* 1ˇ:
    DHCP activÇ. . . . . . . . . . . . . . : Oui
    Configuration automatique activÇe. . . : Oui
 
+Carte rÇseau sans fil Connexion au rÇseau local* 2ˇ:
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
 Carte rÇseau sans fil Wi-Fiˇ:
 
    Suffixe DNS propre Ö la connexion. . . : 
@@ -107,7 +116,7 @@ Carte rÇseau sans fil Wi-Fiˇ:
    Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(prÇfÇrÇ) 
    Masque de sous-rÇseau. . . .ˇ. . . . . : 255.255.255.0
    Bail obtenu. . . . . . . . .ˇ. . . . . : mardi 26 aoñt 2025 15:24:08
-   Bail expirant. . . . . . . . .ˇ. . . . : mercredi 27 aoñt 2025 03:24:09
+   Bail expirant. . . . . . . . .ˇ. . . . : mercredi 27 aoñt 2025 03:24:08
    Passerelle par dÇfaut. . . .ˇ. . . . . : fe80::de00:b0ff:fe60:144c%17
 	                               192.168.1.254
    Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
@@ -135,6 +144,7 @@ Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support dÇconnectÇ
 Liste d'Interfaces
   7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
  14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
  17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
   1...........................Software Loopback Interface 1
 ===========================================================================
@@ -184,6 +194,7 @@ Connexions actives
   TCP    0.0.0.0:135            Starmt:0               LISTENING
   TCP    0.0.0.0:445            Starmt:0               LISTENING
   TCP    0.0.0.0:5040           Starmt:0               LISTENING
+  TCP    0.0.0.0:7680           Starmt:0               LISTENING
   TCP    0.0.0.0:49664          Starmt:0               LISTENING
   TCP    0.0.0.0:49665          Starmt:0               LISTENING
   TCP    0.0.0.0:49666          Starmt:0               LISTENING
@@ -191,63 +202,33 @@ Connexions actives
   TCP    0.0.0.0:49668          Starmt:0               LISTENING
   TCP    0.0.0.0:49670          Starmt:0               LISTENING
   TCP    192.168.1.142:139      Starmt:0               LISTENING
-  TCP    192.168.1.142:49672    13.69.141.149:https    TIME_WAIT
-  TCP    192.168.1.142:49673    40.126.31.67:https     ESTABLISHED
-  TCP    192.168.1.142:49679    40.126.31.67:https     ESTABLISHED
-  TCP    192.168.1.142:49681    40.126.31.67:https     ESTABLISHED
-  TCP    192.168.1.142:49684    151.101.122.172:http   TIME_WAIT
-  TCP    192.168.1.142:49687    40.126.31.67:https     ESTABLISHED
-  TCP    192.168.1.142:49688    13.89.178.26:https     TIME_WAIT
-  TCP    192.168.1.142:49690    40.126.31.67:https     ESTABLISHED
-  TCP    192.168.1.142:49691    a104-75-232-13:http    ESTABLISHED
-  TCP    192.168.1.142:49693    40.122.167.99:https    ESTABLISHED
-  TCP    192.168.1.142:49696    20.223.35.26:https     ESTABLISHED
-  TCP    192.168.1.142:49698    a104-75-232-13:http    ESTABLISHED
-  TCP    192.168.1.142:49700    20.54.232.160:https    ESTABLISHED
-  TCP    192.168.1.142:49703    13.69.141.149:https    ESTABLISHED
-  TCP    192.168.1.142:49705    20.201.192.52:https    ESTABLISHED
-  TCP    192.168.1.142:49706    20.201.192.52:https    ESTABLISHED
-  TCP    192.168.1.142:49713    4.231.128.59:https     TIME_WAIT
-  TCP    192.168.1.142:49714    40.126.31.67:https     TIME_WAIT
-  TCP    192.168.1.142:49716    4.208.165.241:https    ESTABLISHED
-  TCP    192.168.1.142:49729    a104-75-232-13:http    TIME_WAIT
-  TCP    192.168.1.142:49741    185.26.182.112:https   TIME_WAIT
-  TCP    192.168.1.142:49742    185.26.182.112:https   TIME_WAIT
-  TCP    192.168.1.142:49743    185.26.182.112:https   TIME_WAIT
-  TCP    192.168.1.142:49761    vip01:https            TIME_WAIT
-  TCP    192.168.1.142:49766    vip01:https            TIME_WAIT
-  TCP    192.168.1.142:49770    vip01:https            TIME_WAIT
-  TCP    192.168.1.142:49776    vip01:https            TIME_WAIT
-  TCP    192.168.1.142:49782    server-3-165-113-25:https  TIME_WAIT
-  TCP    192.168.1.142:49785    ip-185-235-184-230:https  TIME_WAIT
-  TCP    192.168.1.142:49801    104.18.24.17:https     ESTABLISHED
-  TCP    192.168.1.142:49819    a95-101-29-134:https   ESTABLISHED
-  TCP    192.168.1.142:49826    a2-21-243-212:https    ESTABLISHED
-  TCP    192.168.1.142:49868    20.209.97.107:https    ESTABLISHED
-  TCP    192.168.1.142:49869    20.209.97.107:https    ESTABLISHED
-  TCP    192.168.1.142:49870    a104-75-232-13:http    ESTABLISHED
-  TCP    192.168.1.142:49875    20.209.97.107:https    ESTABLISHED
-  TCP    192.168.1.142:49881    20.209.97.107:https    ESTABLISHED
-  TCP    192.168.1.142:49886    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49889    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49893    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49896    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49903    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49906    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49911    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49914    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49919    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49922    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49924    4.208.165.241:https    ESTABLISHED
-  TCP    192.168.1.142:49928    192.168.1.254:rrac     TIME_WAIT
-  TCP    192.168.1.142:49931    4.208.165.241:https    ESTABLISHED
-  TCP    192.168.1.142:49937    20.223.35.26:https     ESTABLISHED
-  TCP    192.168.1.142:49938    20.223.35.26:https     ESTABLISHED
-  TCP    192.168.1.142:49939    13.107.5.93:https      ESTABLISHED
-  TCP    192.168.1.142:49940    4.208.165.245:https    ESTABLISHED
-  TCP    192.168.1.142:49942    lb-140-82-121-6-fra:https  ESTABLISHED
-  TCP    192.168.1.142:49943    lb-140-82-121-6-fra:https  ESTABLISHED
-  TCP    192.168.1.142:49944    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:49970    104.18.24.17:https     ESTABLISHED
+  TCP    192.168.1.142:49973    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49975    a95-101-29-156:https   ESTABLISHED
+  TCP    192.168.1.142:49979    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49980    server-13-32-145-76:https  ESTABLISHED
+  TCP    192.168.1.142:49983    a2-21-243-209:https    ESTABLISHED
+  TCP    192.168.1.142:49994    20.54.232.160:https    ESTABLISHED
+  TCP    192.168.1.142:49999    20.189.173.7:https     TIME_WAIT
+  TCP    192.168.1.142:50008    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:50009    40.126.32.76:https     ESTABLISHED
+  TCP    192.168.1.142:50019    lb-140-82-121-3-fra:https  ESTABLISHED
+  TCP    192.168.1.142:50073    20.190.159.130:https   ESTABLISHED
+  TCP    192.168.1.142:50074    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50075    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50091    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50094    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50097    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50099    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50101    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50103    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50106    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50112    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50120    lb-140-82-113-26-iad:https  ESTABLISHED
+  TCP    192.168.1.142:50130    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50132    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50136    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50140    51.104.136.2:https     ESTABLISHED
   TCP    [::]:135               Starmt:0               LISTENING
   TCP    [::]:445               Starmt:0               LISTENING
   TCP    [::]:7680              Starmt:0               LISTENING
@@ -262,29 +243,20 @@ Connexions actives
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49850  [2a0b:e46:1:100::33]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49851  [2a0b:e46:1:100::56]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49883  [2603:1020:805:3::400]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49884  [2a04:4e42:1d::684]:http  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49891  [2a04:4e42:1d::684]:http  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49946  par10s21-in-x03:http   TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49947  g2a02-26f0-0680-049f-0000-0000-0000-21cc:http  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49949  [2a04:4e42:6a::684]:http  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49950  [2a04:4e42:6a::684]:http  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49953  [2a04:4e42:6a::684]:http  TIME_WAIT
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49957  bt1:https              ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49965  par10s21-in-x03:http   TIME_WAIT
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49967  [2606:4700::6812:1637]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49969  par21s18-in-x0e:https  TIME_WAIT
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49978  [2600:9000:262b:c200:12:94b3:c380:93a1]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49984  [2a0b:e46:1:145::5]:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49985  [2606:50c0:8000::154]:https  ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49993  g2a02-26f0-9100-0011-0000-0000-6010-f931:https  ESTABLISHED
   TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50003  wh-in-f95:https        ESTABLISHED
-  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50006  [2a0b:e46:1:100::28]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50086  [2001:4c28:1:430:82:145:216:20]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50148  [2603:1030:807:c::99]:https  TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:50165  [2a0b:e46:1:100::28]:https  ESTABLISHED
   UDP    0.0.0.0:5050           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5353           *:*                    
   UDP    0.0.0.0:5355           *:*                    
-  UDP    0.0.0.0:54348          *:*                    
+  UDP    0.0.0.0:51313          *:*                    
   UDP    127.0.0.1:1900         *:*                    
   UDP    127.0.0.1:49664        127.0.0.1:49664        
   UDP    127.0.0.1:49793        *:*                    
@@ -295,8 +267,383 @@ Connexions actives
   UDP    [::]:5353              *:*                    
   UDP    [::]:5353              *:*                    
   UDP    [::]:5355              *:*                    
-  UDP    [::]:54348             *:*                    
+  UDP    [::]:51313             *:*                    
   UDP    [::1]:1900             *:*                    
   UDP    [::1]:49791            *:*                    
   UDP    [fe80::de01:d3f0:408:ff1%17]:1900  *:*                    
   UDP    [fe80::de01:d3f0:408:ff1%17]:49790  *:*                    
+box-5B310EA2¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†S22¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Freebox-60144C¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml¬†¬ª.
+
+
+Configuration IP de Windows
+
+   Nom de l'hìte . . . . . . . . . . : Starmt
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activÇ . . . . . . . . : Non
+   Proxy WINS activÇ . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
+   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Connexion au rÇseau local* 1ˇ:
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Connexion au rÇseau local* 2ˇ:
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Wi-Fiˇ:
+
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+   Adresse IPv6. . . . . . . . . . .ˇ. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(prÇfÇrÇ) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(prÇfÇrÇ) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(prÇfÇrÇ) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(prÇfÇrÇ) 
+   Masque de sous-rÇseau. . . .ˇ. . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . .ˇ. . . . . : mardi 26 aoñt 2025 15:24:08
+   Bail expirant. . . . . . . . .ˇ. . . . : mercredi 27 aoñt 2025 03:24:08
+   Passerelle par dÇfaut. . . .ˇ. . . . . : fe80::de00:b0ff:fe60:144c%17
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 157328567
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : ActivÇ
+
+Interfaceˇ: 192.168.1.142 --- 0x11
+  Adresse Internet      Adresse physique      Type
+  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Nom de la conne Carte rÇseau    Adresse physique    Nom du transport                                          
+=============== =============== =================== ==========================================================
+Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
+Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support dÇconnectÇ                                        
+===========================================================================
+Liste d'Interfaces
+  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
+ 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+ 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+ItinÇraires actifsˇ:
+Destination rÇseau    Masque rÇseau  Adr. passerelle   Adr. interface MÇtrique
+          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
+    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
+    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
+===========================================================================
+ItinÇraires persistantsˇ:
+  Aucun
+
+IPv6 Table de routage
+===========================================================================
+ItinÇraires actifsˇ:
+ If Metric Network Destination      Gateway
+ 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
+  1    331 ::1/128                  On-link
+ 17    291 2a01:e0a:988:fbc0::/64   On-link
+ 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
+                                    On-link
+ 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
+                                    On-link
+ 17    291 fe80::/64                On-link
+ 17    291 fe80::de01:d3f0:408:ff1/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 17    291 ff00::/8                 On-link
+===========================================================================
+ItinÇraires persistantsˇ:
+  Aucun
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       êtat
+  TCP    0.0.0.0:135            Starmt:0               LISTENING
+  TCP    0.0.0.0:445            Starmt:0               LISTENING
+  TCP    0.0.0.0:5040           Starmt:0               LISTENING
+  TCP    0.0.0.0:7680           Starmt:0               LISTENING
+  TCP    0.0.0.0:49664          Starmt:0               LISTENING
+  TCP    0.0.0.0:49665          Starmt:0               LISTENING
+  TCP    0.0.0.0:49666          Starmt:0               LISTENING
+  TCP    0.0.0.0:49667          Starmt:0               LISTENING
+  TCP    0.0.0.0:49668          Starmt:0               LISTENING
+  TCP    0.0.0.0:49670          Starmt:0               LISTENING
+  TCP    192.168.1.142:139      Starmt:0               LISTENING
+  TCP    192.168.1.142:49970    104.18.24.17:https     ESTABLISHED
+  TCP    192.168.1.142:49973    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49975    a95-101-29-156:https   ESTABLISHED
+  TCP    192.168.1.142:49979    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49980    server-13-32-145-76:https  ESTABLISHED
+  TCP    192.168.1.142:49983    a2-21-243-209:https    ESTABLISHED
+  TCP    192.168.1.142:49994    20.54.232.160:https    TIME_WAIT
+  TCP    192.168.1.142:50008    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:50009    40.126.32.76:https     ESTABLISHED
+  TCP    192.168.1.142:50019    lb-140-82-121-3-fra:https  ESTABLISHED
+  TCP    192.168.1.142:50073    20.190.159.130:https   ESTABLISHED
+  TCP    192.168.1.142:50074    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50075    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50091    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50094    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50097    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50099    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50101    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50103    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50106    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50112    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50120    lb-140-82-113-26-iad:https  ESTABLISHED
+  TCP    192.168.1.142:50130    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50132    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50136    51.104.136.2:https     TIME_WAIT
+ans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Salle C14¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Salle C13¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Salle C02¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†SFR_7660_5GHZ¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Rage pas je n'ai pas de wi-fi.¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Maldron Hotel¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Ma co¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†LocationSALIES¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Livebox-DCE0¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Laforetdespins¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†JB¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Iphone de victor ¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Iphone de sus¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Iphone de elise ¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Dublin Airport Free WiFi¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Core-M5¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Core M5¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Clayton Guest WiFi¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†CityKamp Paris¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†C02 Art¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†BelleEtoile_5¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†BelleEtoile_2.4¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Bbox-5B310EA2¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†S22¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml¬†¬ª.
+
+Le profil d‚Äôinterface ¬´¬†Freebox-60144C¬†¬ª est enregistr√© dans le fichier ¬´¬†C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml¬†¬ª.
+
+
+Configuration IP de Windows
+
+   Nom de l'hìte . . . . . . . . . . : Starmt
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activÇ . . . . . . . . : Non
+   Proxy WINS activÇ . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
+   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Connexion au rÇseau local* 1ˇ:
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Connexion au rÇseau local* 2ˇ:
+
+   Statut du mÇdia. . . . . . . . . . . . : MÇdia dÇconnectÇ
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+
+Carte rÇseau sans fil Wi-Fiˇ:
+
+   Suffixe DNS propre Ö la connexion. . . : 
+   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activÇ. . . . . . . . . . . . . . : Oui
+   Configuration automatique activÇe. . . : Oui
+   Adresse IPv6. . . . . . . . . . .ˇ. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(prÇfÇrÇ) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(prÇfÇrÇ) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(prÇfÇrÇ) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(prÇfÇrÇ) 
+   Masque de sous-rÇseau. . . .ˇ. . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . .ˇ. . . . . : mardi 26 aoñt 2025 15:24:08
+   Bail expirant. . . . . . . . .ˇ. . . . : mercredi 27 aoñt 2025 03:24:08
+   Passerelle par dÇfaut. . . .ˇ. . . . . : fe80::de00:b0ff:fe60:144c%17
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 157328567
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : ActivÇ
+
+Interfaceˇ: 192.168.1.142 --- 0x11
+  Adresse Internet      Adresse physique      Type
+  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Nom de la conne Carte rÇseau    Adresse physique    Nom du transport                                          
+=============== =============== =================== ==========================================================
+Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
+Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support dÇconnectÇ                                        
+===========================================================================
+Liste d'Interfaces
+  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
+ 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+ 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+ItinÇraires actifsˇ:
+Destination rÇseau    Masque rÇseau  Adr. passerelle   Adr. interface MÇtrique
+          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
+    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
+    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
+===========================================================================
+ItinÇraires persistantsˇ:
+  Aucun
+
+IPv6 Table de routage
+===========================================================================
+ItinÇraires actifsˇ:
+ If Metric Network Destination      Gateway
+ 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
+  1    331 ::1/128                  On-link
+ 17    291 2a01:e0a:988:fbc0::/64   On-link
+ 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
+                                    On-link
+ 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
+                                    On-link
+ 17    291 fe80::/64                On-link
+ 17    291 fe80::de01:d3f0:408:ff1/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 17    291 ff00::/8                 On-link
+===========================================================================
+ItinÇraires persistantsˇ:
+  Aucun
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       êtat
+  TCP    0.0.0.0:135            Starmt:0               LISTENING
+  TCP    0.0.0.0:445            Starmt:0               LISTENING
+  TCP    0.0.0.0:5040           Starmt:0               LISTENING
+  TCP    0.0.0.0:7680           Starmt:0               LISTENING
+  TCP    0.0.0.0:49664          Starmt:0               LISTENING
+  TCP    0.0.0.0:49665          Starmt:0               LISTENING
+  TCP    0.0.0.0:49666          Starmt:0               LISTENING
+  TCP    0.0.0.0:49667          Starmt:0               LISTENING
+  TCP    0.0.0.0:49668          Starmt:0               LISTENING
+  TCP    0.0.0.0:49670          Starmt:0               LISTENING
+  TCP    192.168.1.142:139      Starmt:0               LISTENING
+  TCP    192.168.1.142:49970    104.18.24.17:https     ESTABLISHED
+  TCP    192.168.1.142:49973    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49975    a95-101-29-156:https   ESTABLISHED
+  TCP    192.168.1.142:49979    cdn-185-199-110-154:https  ESTABLISHED
+  TCP    192.168.1.142:49980    server-13-32-145-76:https  ESTABLISHED
+  TCP    192.168.1.142:49983    a2-21-243-209:https    ESTABLISHED
+  TCP    192.168.1.142:49994    20.54.232.160:https    TIME_WAIT
+  TCP    192.168.1.142:50008    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:50009    40.126.32.76:https     ESTABLISHED
+  TCP    192.168.1.142:50019    lb-140-82-121-3-fra:https  ESTABLISHED
+  TCP    192.168.1.142:50073    20.190.159.130:https   ESTABLISHED
+  TCP    192.168.1.142:50074    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50075    51.124.78.146:https    TIME_WAIT
+  TCP    192.168.1.142:50091    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50094    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50097    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50099    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50101    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50103    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50106    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50112    51.104.136.2:https     TIME_WAIT
+  TCP    192.168.1.142:50130    51.104.136.2:https     TIME_WAIT
