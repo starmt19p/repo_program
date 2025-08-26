@@ -5442,9 +5442,8 @@ Connexions actives
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
   TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
-.
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
 
 Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
 
@@ -5636,9 +5635,8 @@ Le profil d’i  TCP    192.168.1.142:51571    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
   TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
- le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
-
-Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+rofil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
 
 
 Configuration IP de Windows
@@ -5793,9 +5791,9 @@ Connexions actives
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
-le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
+  TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
 
 Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
 
@@ -5996,8 +5994,8 @@ Connexions actives
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
   TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
- . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+ . . : 
    Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
    Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
    DHCP activ�. . . . . . . . . . . . . . : Oui
@@ -6129,6 +6127,556 @@ Connexions actives
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
   TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+.
+
+Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
+
+Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
+
+Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
+
+Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
+
+Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
+
+Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
+
+Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
+
+Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
+
+Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
+
+Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
+
+Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
+
+Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
+
+Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
+
+Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
+
+Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
+
+Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
+
+Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
+
+Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
+
+Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
+
+Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
+
+Le profil d’interface « CityKamp Paris » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml ».
+
+Le profil d’interface « C02 Art » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml ».
+
+Le profil d’interface « BelleEtoile_5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml ».
+
+Le profil d’interface « BelleEtoile_2.4 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml ».
+
+Le profil d’interface « Bbox-5B310EA2 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml ».
+
+Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
+
+Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
+
+
+Configuration IP de Windows
+
+   Nom de l'h�te . . . . . . . . . . : Starmt
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activ� . . . . . . . . : Non
+   Proxy WINS activ� . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
+   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 1�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 2�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Wi-Fi�:
+
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
+   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:09
+   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 157328567
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
+
+Interface�: 192.168.1.142 --- 0x11
+  Adresse Internet      Adresse physique      Type
+  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
+  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Nom de la conne Carte r�seau    Adresse physique    Nom du transport                                          
+=============== =============== =================== ==========================================================
+Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
+Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support d�connect�                                        
+===========================================================================
+Liste d'Interfaces
+  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
+ 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+ 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+Itin�raires actifs�:
+Destination r�seau    Masque r�seau  Adr. passerelle   Adr. interface M�trique
+          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
+    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
+    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
+===========================================================================
+Itin�raires persistants�:
+  Aucun
+
+IPv6 Table de routage
+===========================================================================
+Itin�raires actifs�:
+ If Metric Network Destination      Gateway
+ 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
+  1    331 ::1/128                  On-link
+ 17    291 2a01:e0a:988:fbc0::/64   On-link
+ 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
+                                    On-link
+ 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
+                                    On-link
+ 17    291 fe80::/64                On-link
+ 17    291 fe80::de01:d3f0:408:ff1/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 17    291 ff00::/8                 On-link
+===========================================================================
+Itin�raires persistants�:
+  Aucun
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       �tat
+  TCP    0.0.0.0:135            Starmt:0               LISTENING
+  TCP    0.0.0.0:445            Starmt:0               LISTENING
+  TCP    0.0.0.0:5040           Starmt:0               LISTENING
+  TCP    0.0.0.0:7680           Starmt:0               LISTENING
+  TCP    0.0.0.0:49664          Starmt:0               LISTENING
+  TCP    0.0.0.0:49665          Starmt:0               LISTENING
+  TCP    0.0.0.0:49666          Starmt:0               LISTENING
+  TCP    0.0.0.0:49667          Starmt:0               LISTENING
+  TCP    0.0.0.0:49668          Starmt:0               LISTENING
+  TCP    0.0.0.0:49670          Starmt:0               LISTENING
+  TCP    127.0.0.1:6463         Starmt:0               LISTENING
+  TCP    192.168.1.142:139      Starmt:0               LISTENING
+  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
+  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
+  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
+  TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
+  TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
+ichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
+
+Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
+
+Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
+
+Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
+
+Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
+
+Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
+
+Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
+
+Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
+
+Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
+
+Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
+
+Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
+
+Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
+
+Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
+
+Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
+
+Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
+
+Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
+
+Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
+
+Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
+
+Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
+
+Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
+
+Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
+
+Le profil d’interface « CityKamp Paris » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml ».
+
+Le profil d’interface « C02 Art » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml ».
+
+Le profil d’interface « BelleEtoile_5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml ».
+
+Le profil d’interface « BelleEtoile_2.4 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml ».
+
+Le profil d’interface « Bbox-5B310EA2 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml ».
+
+Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
+
+Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
+
+
+Configuration IP de Windows
+
+   Nom de l'h�te . . . . . . . . . . : Starmt
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activ� . . . . . . . . : Non
+   Proxy WINS activ� . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
+   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 1�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 2�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Wi-Fi�:
+
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
+   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:08
+   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 157328567
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
+
+Interface�: 192.168.1.142 --- 0x11
+  Adresse Internet      Adresse physique      Type
+  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
+  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Le profil d’interface « wifi info » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-wifi info.xml ».
+
+Le profil d’interface « iPhone de Élisée   » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de Élisée  .xml ».
+
+Le profil d’interface « iPhone de tatiana » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de tatiana.xml ».
+
+Le profil d’interface « eir45667475 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-eir45667475.xml ».
+
+Le profil d’interface « Zozo L'artichaut  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
+
+Le profil d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
+
+Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
+
+Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
+
+Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
+
+Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
+
+Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
+
+Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
+
+Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
+
+Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
+
+Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
+
+Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
+
+Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
+
+Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
+
+Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
+
+Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
+
+Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
+
+Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
+
+Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
+
+Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
+
+Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
+
+Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
+
+Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
+
+Le profil d’interface « CityKamp Paris » est enregist  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
+  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
+  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
+  TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
+  TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
+de l'h�te . . . . . . . . . . : Starmt
+   Suffixe DNS principal . . . . . . : 
+   Type de noeud. . . . . . . . . .  : Hybride
+   Routage IP activ� . . . . . . . . : Non
+   Proxy WINS activ� . . . . . . . . : Non
+
+Carte Ethernet Ethernet :
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
+   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 1�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Connexion au r�seau local* 2�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+
+Carte r�seau sans fil Wi-Fi�:
+
+   Suffixe DNS propre � la connexion. . . : 
+   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
+   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
+   DHCP activ�. . . . . . . . . . . . . . : Oui
+   Configuration automatique activ�e. . . : Oui
+   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
+   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
+   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
+   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:09
+   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
+	                               192.168.1.254
+   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
+   IAID DHCPv6 . . . . . . . . . . . : 157328567
+   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
+   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
+	                               fd0f:ee:b0::1
+   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
+
+Interface�: 192.168.1.142 --- 0x11
+  Adresse Internet      Adresse physique      Type
+  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
+  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Nom de la conne Carte r�seau    Adresse physique    Nom du transport                                          
+=============== =============== =================== ==========================================================
+Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
+Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support d�connect�                                        
+===========================================================================
+Liste d'Interfaces
+  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
+ 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+ 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+Itin�raires actifs�:
+Destination r�seau    Masque r�seau  Adr. passerelle   Adr. interface M�trique
+          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
+    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
+    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
+===========================================================================
+Itin�raires persistants�:
+  Aucun
+
+IPv6 Table de routage
+===========================================================================
+Itin�raires actifs�:
+ If Metric Network Destination      Gateway
+ 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
+  1    331 ::1/128                  On-link
+ 17    291 2a01:e0a:988:fbc0::/64   On-link
+ 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
+                                    On-link
+ 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
+                                    On-link
+ 17    291 fe80::/64                On-link
+ 17    291 fe80::de01:d3f0:408:ff1/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 17    291 ff00::/8                 On-link
+===========================================================================
+Itin�raires persistants�:
+  Aucun
+
+Connexions actives
+
+  Proto  Adresse locale         Adresse distante       �tat
+  TCP    0.0.0.0:135            Starmt:0               LISTENING
+  TCP    0.0.0.0:445            Starmt:0               LISTENING
+  TCP    0.0.0.0:5040           Starmt:0               LISTENING
+  TCP    0.0.0.0:7680           Starmt:0               LISTENING
+  TCP    0.0.0.0:49664          Starmt:0               LISTENING
+  TCP    0.0.0.0:49665          Starmt:0               LISTENING
+  TCP    0.0.0.0:49666          Starmt:0               LISTENING
+  TCP    0.0.0.0:49667          Starmt:0               LISTENING
+  TCP    0.0.0.0:49668          Starmt:0               LISTENING
+  TCP    0.0.0.0:49670          Starmt:0               LISTENING
+  TCP    127.0.0.1:6463         Starmt:0               LISTENING
+  TCP    192.168.1.142:139      Starmt:0               LISTENING
+  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
+  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
+  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
+  TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
+  TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
+  TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
 ichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
 
 Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
@@ -6334,7 +6882,7 @@ Connexions actives
   TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
- « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
+��interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
 
 Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
 
@@ -6462,144 +7010,6 @@ Interface�: 192.168.1.142 --- 0x11
   239.255.255.250       01-00-5e-7f-ff-fa     statique  
   255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
 
-Le profil d’interface « wifi info » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-wifi info.xml ».
-
-Le profil d’interface « iPhone de Élisée   » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de Élisée  .xml ».
-
-Le profil d’interface « iPhone de tatiana » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-iPhone de tatiana.xml ».
-
-Le profil d’interface « eir45667475 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-eir45667475.xml ».
-
-Le profil d’interface « Zozo L'artichaut  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
-
-Le profil d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
-
-Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
-
-Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
-
-Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
-
-Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
-
-Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
-
-Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
-
-Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
-
-Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
-
-Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
-
-Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
-
-Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
-
-Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
-
-Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
-
-Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
-
-Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
-
-Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
-
-Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
-
-Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
-
-Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
-
-Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
-
-Le profil d’interface « CityKamp Paris » est enregist  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
-  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
-  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
-  TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
-�» est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
-
-
-Configuration IP de Windows
-
-   Nom de l'h�te . . . . . . . . . . : Starmt
-   Suffixe DNS principal . . . . . . : 
-   Type de noeud. . . . . . . . . .  : Hybride
-   Routage IP activ� . . . . . . . . : Non
-   Proxy WINS activ� . . . . . . . . : Non
-
-Carte Ethernet Ethernet :
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
-   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 1�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
-   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 2�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Wi-Fi�:
-
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
-   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
-   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
-   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
-   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
-   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
-   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:09
-   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
-	                               192.168.1.254
-   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
-   IAID DHCPv6 . . . . . . . . . . . : 157328567
-   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
-   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
-	                               fd0f:ee:b0::1
-   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
-
-Interface�: 192.168.1.142 --- 0x11
-  Adresse Internet      Adresse physique      Type
-  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
-  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
-  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
-  224.0.0.22            01-00-5e-00-00-16     statique  
-  224.0.0.251           01-00-5e-00-00-fb     statique  
-  224.0.0.252           01-00-5e-00-00-fc     statique  
-  239.255.255.250       01-00-5e-7f-ff-fa     statique  
-  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
-
 Nom de la conne Carte r�seau    Adresse physique    Nom du transport                                          
 =============== =============== =================== ==========================================================
 Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
@@ -6677,417 +7087,3 @@ Connexions actives
   TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
   TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
- « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
-
-Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
-
-Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
-
-Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
-
-Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
-
-Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
-
-Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
-
-Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
-
-Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
-
-Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
-
-Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
-
-Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
-
-Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
-
-Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
-
-Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
-
-Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
-
-Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
-
-Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
-
-Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
-
-Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
-
-Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
-
-Le profil d’interface « CityKamp Paris » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml ».
-
-Le profil d’interface « C02 Art » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml ».
-
-Le profil d’interface « BelleEtoile_5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml ».
-
-Le profil d’interface « BelleEtoile_2.4 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml ».
-
-Le profil d’interface « Bbox-5B310EA2 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml ».
-
-Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
-
-Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
-
-
-Configuration IP de Windows
-
-   Nom de l'h�te . . . . . . . . . . : Starmt
-   Suffixe DNS principal . . . . . . : 
-   Type de noeud. . . . . . . . . .  : Hybride
-   Routage IP activ� . . . . . . . . : Non
-   Proxy WINS activ� . . . . . . . . : Non
-
-Carte Ethernet Ethernet :
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
-   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 1�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
-   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 2�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Wi-Fi�:
-
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
-   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
-   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
-   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
-   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
-   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
-   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:09
-   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
-	                               192.168.1.254
-   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
-   IAID DHCPv6 . . . . . . . . . . . : 157328567
-   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
-   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
-	                               fd0f:ee:b0::1
-   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
-
-Interface�: 192.168.1.142 --- 0x11
-  Adresse Internet      Adresse physique      Type
-  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
-  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
-  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
-  224.0.0.22            01-00-5e-00-00-16     statique  
-  224.0.0.251           01-00-5e-00-00-fb     statique  
-  224.0.0.252           01-00-5e-00-00-fc     statique  
-  239.255.255.250       01-00-5e-7f-ff-fa     statique  
-  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
-
-Nom de la conne Carte r�seau    Adresse physique    Nom du transport                                          
-=============== =============== =================== ==========================================================
-Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
-Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support d�connect�                                        
-===========================================================================
-Liste d'Interfaces
-  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
- 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
- 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
- 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
-  1...........................Software Loopback Interface 1
-===========================================================================
-
-IPv4 Table de routage
-===========================================================================
-Itin�raires actifs�:
-Destination r�seau    Masque r�seau  Adr. passerelle   Adr. interface M�trique
-          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
-        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
-        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
-  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
-      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
-    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
-    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
-        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
-        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
-  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
-  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
-===========================================================================
-Itin�raires persistants�:
-  Aucun
-
-IPv6 Table de routage
-===========================================================================
-Itin�raires actifs�:
- If Metric Network Destination      Gateway
- 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
-  1    331 ::1/128                  On-link
- 17    291 2a01:e0a:988:fbc0::/64   On-link
- 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
-                                    On-link
- 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
-                                    On-link
- 17    291 fe80::/64                On-link
- 17    291 fe80::de01:d3f0:408:ff1/128
-                                    On-link
-  1    331 ff00::/8                 On-link
- 17    291 ff00::/8                 On-link
-===========================================================================
-Itin�raires persistants�:
-  Aucun
-
-Connexions actives
-
-  Proto  Adresse locale         Adresse distante       �tat
-  TCP    0.0.0.0:135            Starmt:0               LISTENING
-  TCP    0.0.0.0:445            Starmt:0               LISTENING
-  TCP    0.0.0.0:5040           Starmt:0               LISTENING
-  TCP    0.0.0.0:7680           Starmt:0               LISTENING
-  TCP    0.0.0.0:49664          Starmt:0               LISTENING
-  TCP    0.0.0.0:49665          Starmt:0               LISTENING
-  TCP    0.0.0.0:49666          Starmt:0               LISTENING
-  TCP    0.0.0.0:49667          Starmt:0               LISTENING
-  TCP    0.0.0.0:49668          Starmt:0               LISTENING
-  TCP    0.0.0.0:49670          Starmt:0               LISTENING
-  TCP    127.0.0.1:6463         Starmt:0               LISTENING
-  TCP    192.168.1.142:139      Starmt:0               LISTENING
-  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
-  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
-  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
-  TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
-rs\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
-
-Le profil d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
-
-Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
-
-Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
-
-Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
-
-Le profil d’interface « Salle C14 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
-
-Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
-
-Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
-
-Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
-
-Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
-
-Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
-
-Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
-
-Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
-
-Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
-
-Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
-
-Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
-
-Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
-
-Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
-
-Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
-
-Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
-
-Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
-
-Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
-
-Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
-
-Le profil d’interface « CityKamp Paris » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml ».
-
-Le profil d’interface « C02 Art » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml ».
-
-Le profil d’interface « BelleEtoile_5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml ».
-
-Le profil d’interface « BelleEtoile_2.4 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml ».
-
-Le profil d’interface « Bbox-5B310EA2 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml ».
-
-Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
-
-Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
-
-
-Configuration IP de Windows
-
-   Nom de l'h�te . . . . . . . . . . : Starmt
-   Suffixe DNS principal . . . . . . : 
-   Type de noeud. . . . . . . . . .  : Hybride
-   Routage IP activ� . . . . . . . . : Non
-   Proxy WINS activ� . . . . . . . . : Non
-
-Carte Ethernet Ethernet :
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
-   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 1�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
-   Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Connexion au r�seau local* 2�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-
-Carte r�seau sans fil Wi-Fi�:
-
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : TP-Link Wireless USB Adapter
-   Adresse physique . . . . . . . . . . . : 60-A4-B7-01-D7-50
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
-   Adresse IPv6. . . . . . . . . . .�. . .: 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62(pr�f�r�) 
-   Adresse IPv6 temporaire . . . . . . . .: 2a01:e0a:988:fbc0:7172:c37:bbfd:2239(pr�f�r�) 
-   Adresse IPv6 de liaison locale. . . . .: fe80::de01:d3f0:408:ff1%17(pr�f�r�) 
-   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.142(pr�f�r�) 
-   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
-   Bail obtenu. . . . . . . . .�. . . . . : mardi 26 ao�t 2025 15:24:08
-   Bail expirant. . . . . . . . .�. . . . : mercredi 27 ao�t 2025 03:24:08
-   Passerelle par d�faut. . . .�. . . . . : fe80::de00:b0ff:fe60:144c%17
-	                               192.168.1.254
-   Serveur DHCP . . . . . . . . . . . . . : 192.168.1.254
-   IAID DHCPv6 . . . . . . . . . . . : 157328567
-   DUID de client DHCPv6. . . . . . . . : 00-01-00-01-30-11-9B-F0-D8-BB-C1-41-EC-93
-   Serveurs DNS. . .  . . . . . . . . . . : 192.168.1.254
-	                               fd0f:ee:b0::1
-   NetBIOS sur Tcpip. . . . . . . . . . . : Activ�
-
-Interface�: 192.168.1.142 --- 0x11
-  Adresse Internet      Adresse physique      Type
-  192.168.1.184         20-66-cf-e0-ca-7f     dynamique 
-  192.168.1.254         dc-00-b0-60-14-4c     dynamique 
-  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
-  224.0.0.22            01-00-5e-00-00-16     statique  
-  224.0.0.251           01-00-5e-00-00-fb     statique  
-  224.0.0.252           01-00-5e-00-00-fc     statique  
-  239.255.255.250       01-00-5e-7f-ff-fa     statique  
-  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
-
-Nom de la conne Carte r�seau    Adresse physique    Nom du transport                                          
-=============== =============== =================== ==========================================================
-Wi-Fi           TP-Link Wireles 60-A4-B7-01-D7-50   N/A                                                       
-Ethernet        Intel(R) Ethern D8-BB-C1-41-EC-93   Support d�connect�                                        
-===========================================================================
-Liste d'Interfaces
-  7...d8 bb c1 41 ec 93 ......Intel(R) Ethernet Connection (10) I219-V
- 14...62 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter
- 15...60 a4 b7 01 d7 50 ......Microsoft Wi-Fi Direct Virtual Adapter #2
- 17...60 a4 b7 01 d7 50 ......TP-Link Wireless USB Adapter
-  1...........................Software Loopback Interface 1
-===========================================================================
-
-IPv4 Table de routage
-===========================================================================
-Itin�raires actifs�:
-Destination r�seau    Masque r�seau  Adr. passerelle   Adr. interface M�trique
-          0.0.0.0          0.0.0.0    192.168.1.254    192.168.1.142     35
-        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
-        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
-  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
-      192.168.1.0    255.255.255.0         On-link     192.168.1.142    291
-    192.168.1.142  255.255.255.255         On-link     192.168.1.142    291
-    192.168.1.255  255.255.255.255         On-link     192.168.1.142    291
-        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
-        224.0.0.0        240.0.0.0         On-link     192.168.1.142    291
-  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
-  255.255.255.255  255.255.255.255         On-link     192.168.1.142    291
-===========================================================================
-Itin�raires persistants�:
-  Aucun
-
-IPv6 Table de routage
-===========================================================================
-Itin�raires actifs�:
- If Metric Network Destination      Gateway
- 17    291 ::/0                     fe80::de00:b0ff:fe60:144c
-  1    331 ::1/128                  On-link
- 17    291 2a01:e0a:988:fbc0::/64   On-link
- 17    291 2a01:e0a:988:fbc0:7172:c37:bbfd:2239/128
-                                    On-link
- 17    291 2a01:e0a:988:fbc0:89a3:efd3:8ffc:ee62/128
-                                    On-link
- 17    291 fe80::/64                On-link
- 17    291 fe80::de01:d3f0:408:ff1/128
-                                    On-link
-  1    331 ff00::/8                 On-link
- 17    291 ff00::/8                 On-link
-===========================================================================
-Itin�raires persistants�:
-  Aucun
-
-Connexions actives
-
-  Proto  Adresse locale         Adresse distante       �tat
-  TCP    0.0.0.0:135            Starmt:0               LISTENING
-  TCP    0.0.0.0:445            Starmt:0               LISTENING
-  TCP    0.0.0.0:5040           Starmt:0               LISTENING
-  TCP    0.0.0.0:7680           Starmt:0               LISTENING
-  TCP    0.0.0.0:49664          Starmt:0               LISTENING
-  TCP    0.0.0.0:49665          Starmt:0               LISTENING
-  TCP    0.0.0.0:49666          Starmt:0               LISTENING
-  TCP    0.0.0.0:49667          Starmt:0               LISTENING
-  TCP    0.0.0.0:49668          Starmt:0               LISTENING
-  TCP    0.0.0.0:49670          Starmt:0               LISTENING
-  TCP    127.0.0.1:6463         Starmt:0               LISTENING
-  TCP    192.168.1.142:139      Starmt:0               LISTENING
-  TCP    192.168.1.142:51708    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51723    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51742    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51781    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51791    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51817    20.190.160.67:https    ESTABLISHED
-  TCP    192.168.1.142:51824    135.233.45.222:https   TIME_WAIT
-  TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
-  TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
