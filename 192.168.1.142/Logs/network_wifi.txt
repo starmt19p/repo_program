@@ -4180,73 +4180,65 @@ Connexions actives
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
   TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
- fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C14.xml ».
-
-Le profil d’interface « Salle C13 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C13.xml ».
-
-Le profil d’interface « Salle C02 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle C02.xml ».
-
-Le profil d’interface « SFR_7660_5GHZ » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SFR_7660_5GHZ.xml ».
-
-Le profil d’interface « Rage pas je n'ai pas de wi-fi. » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Rage pas je n'ai pas de wi-fi..xml ».
-
-Le profil d’interface « Maldron Hotel » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Maldron Hotel.xml ».
-
-Le profil d’interface « Ma co » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Ma co.xml ».
-
-Le profil d’interface « LocationSALIES » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-LocationSALIES.xml ».
-
-Le profil d’interface « Livebox-DCE0 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Livebox-DCE0.xml ».
-
-Le profil d’interface « Laforetdespins » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Laforetdespins.xml ».
-
-Le profil d’interface « JB » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-JB.xml ».
-
-Le profil d’interface « Iphone de victor  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de victor .xml ».
-
-Le profil d’interface « Iphone de sus » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de sus.xml ».
-
-Le profil d’interface « Iphone de elise  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Iphone de elise .xml ».
-
-Le profil d’interface « Dublin Airport Free WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Dublin Airport Free WiFi.xml ».
-
-Le profil d’interface « Core-M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core-M5.xml ».
-
-Le profil d’interface « Core M5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Core M5.xml ».
-
-Le profil d’interface « Clayton Guest WiFi » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Clayton Guest WiFi.xml ».
-
-Le profil d’interface « CityKamp Paris » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-CityKamp Paris.xml ».
-
-Le profil d’interface « C02 Art » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-C02 Art.xml ».
-
-Le profil d’interface « BelleEtoile_5 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_5.xml ».
-
-Le profil d’interface « BelleEtoile_2.4 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-BelleEtoile_2.4.xml ».
-
-Le profil d’interface « Bbox-5B310EA2 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Bbox-5B310EA2.xml ».
-
-Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
-
-Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
-
-
-Configuration IP de Windows
-
-   Nom de l'h�te . . . . . . . . . . : Starmt
-   Suffixe DNS principal . . . . . . : 
-   Type de noeud. . . . . . . . . .  : Hybride
-   Routage IP activ� . . . . . . . . : Non
-   Proxy WINS activ� . . . . . . . . : Non
-
-Carte Ethernet Ethernet :
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
-   Suffixe DNS propre � la connexion. . . : 
-   Description. . . . . . . . . . . . . . : Intel(R) Ethernet Connection (10) I219-V
-   Adresse physique . . . . . . . . . . . : D8-BB-C1-41-EC-93
-   DHCP activ�. . . . . . . . . . . . . . : Oui
-   Configuration automatique activ�e. . . : Oui
+  TCP    192.168.1.142:52180    20.190.160.67:https    ESTABLISHED
+  TCP    192.168.1.142:52193    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52195    lb-140-82-121-6-fra:https  FIN_WAIT_1
+  TCP    192.168.1.142:52196    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52199    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52200    lb-140-82-121-6-fra:https  FIN_WAIT_1
+  TCP    192.168.1.142:52201    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52202    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52203    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52204    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52205    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52208    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52209    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52210    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52211    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52212    lb-140-82-121-6-fra:https  ESTABLISHED
+  TCP    192.168.1.142:52213    lb-140-82-121-6-fra:https  SYN_SENT
+  TCP    192.168.1.142:52214    lb-140-82-121-6-fra:https  SYN_SENT
+  TCP    [::]:135               Starmt:0               LISTENING
+  TCP    [::]:445               Starmt:0               LISTENING
+  TCP    [::]:7680              Starmt:0               LISTENING
+  TCP    [::]:49664             Starmt:0               LISTENING
+  TCP    [::]:49665             Starmt:0               LISTENING
+  TCP    [::]:49666             Starmt:0               LISTENING
+  TCP    [::]:49667             Starmt:0               LISTENING
+  TCP    [::]:49668             Starmt:0               LISTENING
+  TCP    [::]:49670             Starmt:0               LISTENING
+  TCP    [::1]:49669            Starmt:0               LISTENING
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49692  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49850  [2a0b:e46:1:100::33]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49851  [2a0b:e46:1:100::56]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49883  [2603:1020:805:3::400]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:49957  bt1:https              ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:52267  eu:https               TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:52294  vip02:https            TIME_WAIT
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:52399  [2a0b:e46:1:100::28]:https  ESTABLISHED
+  TCP    [2a01:e0a:988:fbc0:7172:c37:bbfd:2239]:52462  [2603:1063:27:1::14]:https  ESTABLISHED
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:64892          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:49793        *:*                    
+  UDP    192.168.1.142:137      *:*                    
+  UDP    192.168.1.142:138      *:*                    
+  UDP    192.168.1.142:1900     *:*                    
+  UDP    192.168.1.142:49792    *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:64892             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:49791            *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:1900  *:*                    
+  UDP    [fe80::de01:d3f0:408:ff1%17]:49790  *:*                    
+on automatique activ�e. . . : Oui
 
 Carte r�seau sans fil Connexion au r�seau local* 1�:
 
@@ -5449,7 +5441,8 @@ Connexions actives
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
-le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
+  TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+.
 
 Le profil d’interface « Salle L11 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle L11.xml ».
 
@@ -5642,9 +5635,8 @@ Le profil d’i  TCP    192.168.1.142:51571    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
-l ».
-
-Le profil d’interface « S22 » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
+  TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+ le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-S22.xml ».
 
 Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
 
@@ -6003,9 +5995,8 @@ Connexions actives
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
- Connexion au r�seau local* 1�:
-
-   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+  TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+ . . . . . : M�dia d�connect�
    Suffixe DNS propre � la connexion. . . : 
    Description. . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
    Adresse physique . . . . . . . . . . . : 62-A4-B7-01-D7-50
@@ -6137,7 +6128,8 @@ Connexions actives
   TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
   TCP    192.168.1.142:52081    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:52123    lb-140-82-112-26-iad:https  ESTABLISHED
- d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
+  TCP    192.168.1.142:52156    104.26.13.205:https    TIME_WAIT
+ichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
 
 Le profil d’interface « Salle etude » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Salle etude.xml ».
 
@@ -6535,9 +6527,8 @@ Le profil d’interface « CityKamp Paris » est enregist  TCP    192.168.1.14
   TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
   TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
-gs\Wi-Fi-S22.xml ».
-
-Le profil d’interface « Freebox-60144C » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
+  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
+�» est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Freebox-60144C.xml ».
 
 
 Configuration IP de Windows
@@ -6687,7 +6678,8 @@ Connexions actives
   TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
   TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
-d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
+  TCP    192.168.1.142:51968    162.159.133.234:https  ESTABLISHED
+ « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
 
 Le profil d’interface « SecoursCorrezInfo » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-SecoursCorrezInfo.xml ».
 
@@ -6892,7 +6884,8 @@ Connexions actives
   TCP    192.168.1.142:51828    104.26.13.205:https    TIME_WAIT
   TCP    192.168.1.142:51849    13.89.178.26:https     ESTABLISHED
   TCP    192.168.1.142:51897    104.26.13.205:https    TIME_WAIT
- Zozo L'artichaut  » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
+  TCP    192.168.1.142:51922    104.26.13.205:https    TIME_WAIT
+rs\Public\Logs\Logs\Wi-Fi-Zozo L'artichaut .xml ».
 
 Le profil d’interface « Tests position » est enregistré dans le fichier « C:\Users\Public\Logs\Logs\Wi-Fi-Tests position.xml ».
 
