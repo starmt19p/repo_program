@@ -23,10 +23,10 @@ ParamŠtres r‚gionaux systŠme:               fr;Fran‡ais (France)
 ParamŠtres r‚gionaux d'entr‚e:              fr;Fran‡ais (France)
 Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
 M‚moire physique totale:                    8ÿ016 Mo
-M‚moire physique disponible:                2ÿ323 Mo
+M‚moire physique disponible:                2ÿ129 Mo
 M‚moire virtuelleÿ: taille maximale:        23ÿ376 Mo
-M‚moire virtuelleÿ: disponible:             13ÿ681 Mo
-M‚moire virtuelleÿ: en cours d'utilisation: 9ÿ695 Mo
+M‚moire virtuelleÿ: disponible:             12ÿ423 Mo
+M‚moire virtuelleÿ: en cours d'utilisation: 10ÿ953 Mo
 Emplacement(s) de fichier d'‚change:        C:\pagefile.sys
 Domaine:                                    WORKGROUP
 Serveur d'ouverture de session:             \\STARMT
@@ -61,203 +61,213 @@ Configuration requise pour Hyper-V:         Extensions de mode du moniteur d'ord
 Nom de l'image                 PID Nom de la sessio Num‚ro de s Utilisation 
 ========================= ======== ================ =========== ============
 System Idle Process              0 Services                   0         8 Ko
-System                           4 Services                   0     3ÿ004 Ko
-Registry                       224 Services                   0    73ÿ956 Ko
+System                           4 Services                   0     3ÿ008 Ko
+Registry                       224 Services                   0    65ÿ332 Ko
 smss.exe                       704 Services                   0     1ÿ600 Ko
-csrss.exe                      796 Services                   0     7ÿ648 Ko
-wininit.exe                   1076 Services                   0     9ÿ728 Ko
-csrss.exe                     1084 Console                    1     8ÿ108 Ko
-winlogon.exe                  1144 Console                    1    15ÿ016 Ko
-services.exe                  1224 Services                   0    19ÿ636 Ko
-lsass.exe                     1244 Services                   0    30ÿ428 Ko
-svchost.exe                   1380 Services                   0    34ÿ536 Ko
-fontdrvhost.exe               1412 Services                   0     4ÿ864 Ko
-fontdrvhost.exe               1420 Console                    1     5ÿ848 Ko
-svchost.exe                   1504 Services                   0    16ÿ780 Ko
-svchost.exe                   1560 Services                   0    12ÿ712 Ko
-dwm.exe                       1640 Console                    1   359ÿ920 Ko
-svchost.exe                   1712 Services                   0    10ÿ032 Ko
-svchost.exe                   1720 Services                   0    22ÿ004 Ko
-svchost.exe                   1848 Services                   0    14ÿ256 Ko
-svchost.exe                   1884 Services                   0    15ÿ668 Ko
-svchost.exe                   1904 Services                   0    16ÿ864 Ko
-svchost.exe                   1936 Services                   0    10ÿ052 Ko
-IntelCpHDCPSvc.exe            1960 Services                   0    10ÿ276 Ko
-svchost.exe                   1996 Services                   0     7ÿ876 Ko
-svchost.exe                   1088 Services                   0    14ÿ168 Ko
-svchost.exe                   1320 Services                   0    10ÿ952 Ko
-svchost.exe                   2112 Services                   0    20ÿ376 Ko
-IntelCpHeciSvc.exe            2120 Services                   0    10ÿ000 Ko
-svchost.exe                   2156 Services                   0    19ÿ896 Ko
-svchost.exe                   2196 Services                   0    10ÿ984 Ko
-svchost.exe                   2336 Services                   0     8ÿ256 Ko
-NVDisplay.Container.exe       2420 Services                   0    40ÿ180 Ko
-svchost.exe                   2540 Services                   0    11ÿ728 Ko
-svchost.exe                   2572 Services                   0    23ÿ924 Ko
-svchost.exe                   2624 Services                   0     7ÿ908 Ko
-svchost.exe                   2632 Services                   0    18ÿ732 Ko
-svchost.exe                   2640 Services                   0    10ÿ876 Ko
-Memory Compression            2808 Services                   0    38ÿ228 Ko
-svchost.exe                   2852 Services                   0    11ÿ596 Ko
-igfxCUIService.exe            2936 Services                   0    12ÿ724 Ko
-svchost.exe                   2972 Services                   0    11ÿ764 Ko
-svchost.exe                   2980 Services                   0    10ÿ128 Ko
-svchost.exe                   3068 Services                   0    18ÿ032 Ko
-svchost.exe                   2564 Services                   0     9ÿ264 Ko
-svchost.exe                   3084 Services                   0     9ÿ072 Ko
+csrss.exe                      796 Services                   0     7ÿ668 Ko
+wininit.exe                   1076 Services                   0     9ÿ756 Ko
+csrss.exe                     1084 Console                    1     8ÿ152 Ko
+winlogon.exe                  1144 Console                    1    15ÿ048 Ko
+services.exe                  1224 Services                   0    19ÿ592 Ko
+lsass.exe                     1244 Services                   0    30ÿ536 Ko
+svchost.exe                   1380 Services                   0    34ÿ392 Ko
+fontdrvhost.exe               1412 Services                   0     4ÿ884 Ko
+fontdrvhost.exe               1420 Console                    1     5ÿ864 Ko
+svchost.exe                   1504 Services                   0    16ÿ900 Ko
+svchost.exe                   1560 Services                   0    12ÿ752 Ko
+dwm.exe                       1640 Console                    1   361ÿ744 Ko
+svchost.exe                   1720 Services                   0    21ÿ980 Ko
+svchost.exe                   1848 Services                   0    14ÿ252 Ko
+svchost.exe                   1884 Services                   0    15ÿ620 Ko
+svchost.exe                   1904 Services                   0    16ÿ972 Ko
+svchost.exe                   1936 Services                   0    10ÿ068 Ko
+IntelCpHDCPSvc.exe            1960 Services                   0    10ÿ288 Ko
+svchost.exe                   1996 Services                   0     7ÿ920 Ko
+svchost.exe                   1088 Services                   0    14ÿ156 Ko
+svchost.exe                   1320 Services                   0    10ÿ940 Ko
+svchost.exe                   2112 Services                   0    20ÿ300 Ko
+IntelCpHeciSvc.exe            2120 Services                   0     9ÿ984 Ko
+svchost.exe                   2156 Services                   0    19ÿ960 Ko
+svchost.exe                   2196 Services                   0    10ÿ992 Ko
+svchost.exe                   2336 Services                   0     8ÿ312 Ko
+NVDisplay.Container.exe       2420 Services                   0    40ÿ300 Ko
+svchost.exe                   2540 Services                   0    11ÿ740 Ko
+svchost.exe                   2572 Services                   0    24ÿ344 Ko
+svchost.exe                   2624 Services                   0     7ÿ936 Ko
+svchost.exe                   2632 Services                   0    18ÿ592 Ko
+svchost.exe                   2640 Services                   0    10ÿ928 Ko
+Memory Compression            2808 Services                   0    27ÿ780 Ko
+svchost.exe                   2852 Services                   0    11ÿ600 Ko
+igfxCUIService.exe            2936 Services                   0    12ÿ716 Ko
+svchost.exe                   2972 Services                   0    11ÿ768 Ko
+svchost.exe                   2980 Services                   0    10ÿ224 Ko
+svchost.exe                   3068 Services                   0    18ÿ100 Ko
+svchost.exe                   2564 Services                   0     9ÿ308 Ko
+svchost.exe                   3084 Services                   0     9ÿ088 Ko
 svchost.exe                   3092 Services                   0    10ÿ796 Ko
-svchost.exe                   3232 Services                   0    10ÿ168 Ko
-svchost.exe                   3260 Services                   0    25ÿ880 Ko
-svchost.exe                   3356 Services                   0    13ÿ652 Ko
-audiodg.exe                   3436 Services                   0    21ÿ084 Ko
-svchost.exe                   3556 Services                   0    25ÿ196 Ko
-svchost.exe                   3596 Services                   0    16ÿ976 Ko
-svchost.exe                   3644 Services                   0     9ÿ428 Ko
-spoolsv.exe                   3704 Services                   0    21ÿ352 Ko
-svchost.exe                   3764 Services                   0    24ÿ980 Ko
-NVDisplay.Container.exe       3812 Console                    1    52ÿ732 Ko
-svchost.exe                   3840 Services                   0    10ÿ432 Ko
-svchost.exe                   3876 Services                   0    25ÿ684 Ko
-svchost.exe                   4132 Services                   0    62ÿ744 Ko
-OneApp.IGCC.WinService.ex     4144 Services                   0    60ÿ392 Ko
-svchost.exe                   4152 Services                   0    15ÿ132 Ko
-svchost.exe                   4168 Services                   0     7ÿ876 Ko
-svchost.exe                   4176 Services                   0    10ÿ520 Ko
-svchost.exe                   4184 Services                   0    27ÿ392 Ko
-svchost.exe                   4196 Services                   0    19ÿ112 Ko
-jhi_service.exe               4204 Services                   0     8ÿ840 Ko
-RtkAudUService64.exe          4216 Services                   0    17ÿ904 Ko
-WMIRegistrationService.ex     4236 Services                   0    15ÿ892 Ko
-MpDefenderCoreService.exe     4260 Services                   0    30ÿ284 Ko
-MsMpEng.exe                   4272 Services                   0   412ÿ896 Ko
-svchost.exe                   4576 Services                   0    12ÿ556 Ko
-WmiPrvSE.exe                  4920 Services                   0    19ÿ080 Ko
-svchost.exe                   5436 Services                   0    24ÿ568 Ko
-svchost.exe                   5444 Services                   0    16ÿ788 Ko
-gamingservices.exe            5540 Services                   0    52ÿ724 Ko
-gamingservicesnet.exe         5548 Services                   0    11ÿ840 Ko
-AggregatorHost.exe            5244 Services                   0    12ÿ380 Ko
-svchost.exe                   3400 Services                   0    12ÿ016 Ko
+svchost.exe                   3232 Services                   0    10ÿ188 Ko
+svchost.exe                   3260 Services                   0    26ÿ032 Ko
+svchost.exe                   3356 Services                   0    13ÿ600 Ko
+audiodg.exe                   3436 Services                   0    21ÿ016 Ko
+svchost.exe                   3556 Services                   0    25ÿ164 Ko
+svchost.exe                   3596 Services                   0    17ÿ008 Ko
+svchost.exe                   3644 Services                   0     9ÿ452 Ko
+spoolsv.exe                   3704 Services                   0    21ÿ436 Ko
+svchost.exe                   3764 Services                   0    24ÿ996 Ko
+NVDisplay.Container.exe       3812 Console                    1    52ÿ748 Ko
+svchost.exe                   3840 Services                   0    10ÿ456 Ko
+svchost.exe                   3876 Services                   0    26ÿ144 Ko
+svchost.exe                   4132 Services                   0    62ÿ504 Ko
+OneApp.IGCC.WinService.ex     4144 Services                   0    60ÿ396 Ko
+svchost.exe                   4152 Services                   0    15ÿ128 Ko
+svchost.exe                   4168 Services                   0     7ÿ896 Ko
+svchost.exe                   4176 Services                   0    10ÿ544 Ko
+svchost.exe                   4184 Services                   0    27ÿ416 Ko
+svchost.exe                   4196 Services                   0    20ÿ212 Ko
+jhi_service.exe               4204 Services                   0     8ÿ852 Ko
+RtkAudUService64.exe          4216 Services                   0    17ÿ864 Ko
+WMIRegistrationService.ex     4236 Services                   0    15ÿ976 Ko
+MpDefenderCoreService.exe     4260 Services                   0    30ÿ348 Ko
+MsMpEng.exe                   4272 Services                   0   432ÿ928 Ko
+svchost.exe                   4576 Services                   0    12ÿ616 Ko
+WmiPrvSE.exe                  4920 Services                   0    19ÿ108 Ko
+svchost.exe                   5436 Services                   0    24ÿ576 Ko
+svchost.exe                   5444 Services                   0    16ÿ720 Ko
+gamingservices.exe            5540 Services                   0    52ÿ752 Ko
+gamingservicesnet.exe         5548 Services                   0    11ÿ860 Ko
+AggregatorHost.exe            5244 Services                   0    12ÿ420 Ko
+svchost.exe                   3400 Services                   0    12ÿ056 Ko
 svchost.exe                   6292 Services                   0    10ÿ864 Ko
-svchost.exe                   6352 Services                   0    13ÿ500 Ko
-svchost.exe                   6672 Services                   0     5ÿ920 Ko
-NisSrv.exe                    7120 Services                   0    15ÿ728 Ko
-svchost.exe                   5752 Services                   0    13ÿ168 Ko
-svchost.exe                   6284 Services                   0    12ÿ268 Ko
-svchost.exe                   6620 Services                   0    21ÿ056 Ko
-svchost.exe                   7236 Services                   0     8ÿ864 Ko
+svchost.exe                   6352 Services                   0    13ÿ532 Ko
+svchost.exe                   6672 Services                   0     5ÿ932 Ko
+NisSrv.exe                    7120 Services                   0    15ÿ644 Ko
+svchost.exe                   5752 Services                   0    13ÿ424 Ko
+svchost.exe                   6284 Services                   0    12ÿ324 Ko
+svchost.exe                   6620 Services                   0    21ÿ044 Ko
+svchost.exe                   7236 Services                   0     8ÿ868 Ko
 svchost.exe                   7468 Services                   0     7ÿ692 Ko
-sihost.exe                    7692 Console                    1    45ÿ552 Ko
-svchost.exe                   7772 Console                    1    40ÿ468 Ko
+sihost.exe                    7692 Console                    1    45ÿ596 Ko
+svchost.exe                   7772 Console                    1    41ÿ180 Ko
 PresentationFontCache.exe     7792 Services                   0    22ÿ972 Ko
-svchost.exe                   7844 Console                    1    11ÿ512 Ko
-svchost.exe                   7880 Console                    1    35ÿ848 Ko
-taskhostw.exe                 7932 Console                    1    18ÿ836 Ko
-svchost.exe                   8008 Services                   0    26ÿ716 Ko
-svchost.exe                   6156 Services                   0    24ÿ280 Ko
-igfxEM.exe                    7424 Console                    1    18ÿ856 Ko
-explorer.exe                  7556 Console                    1   307ÿ748 Ko
+svchost.exe                   7844 Console                    1    11ÿ552 Ko
+svchost.exe                   7880 Console                    1    35ÿ824 Ko
+taskhostw.exe                 7932 Console                    1    18ÿ840 Ko
+svchost.exe                   8008 Services                   0    26ÿ868 Ko
+svchost.exe                   6156 Services                   0    24ÿ256 Ko
+igfxEM.exe                    7424 Console                    1    18ÿ828 Ko
+explorer.exe                  7556 Console                    1   311ÿ832 Ko
 ShellHost.exe                 7660 Console                    1    58ÿ028 Ko
-svchost.exe                   8400 Console                    1    23ÿ012 Ko
-svchost.exe                   8480 Services                   0    13ÿ700 Ko
-SearchHost.exe                8824 Console                    1   136ÿ564 Ko
-StartMenuExperienceHost.e     8832 Console                    1   161ÿ864 Ko
+svchost.exe                   8400 Console                    1    22ÿ968 Ko
+svchost.exe                   8480 Services                   0    13ÿ768 Ko
+SearchHost.exe                8824 Console                    1   136ÿ588 Ko
+StartMenuExperienceHost.e     8832 Console                    1   161ÿ876 Ko
 UserOOBEBroker.exe            9060 Console                    1    11ÿ432 Ko
-RuntimeBroker.exe             9088 Console                    1    45ÿ528 Ko
-svchost.exe                   9096 Console                    1    28ÿ076 Ko
-SearchIndexer.exe             8188 Services                   0    29ÿ556 Ko
-msedgewebview2.exe            9592 Console                    1   113ÿ012 Ko
+RuntimeBroker.exe             9088 Console                    1    45ÿ504 Ko
+svchost.exe                   9096 Console                    1    28ÿ020 Ko
+SearchIndexer.exe             8188 Services                   0    31ÿ088 Ko
+msedgewebview2.exe            9592 Console                    1   113ÿ020 Ko
 msedgewebview2.exe            9644 Console                    1     9ÿ384 Ko
-msedgewebview2.exe            9828 Console                    1    59ÿ292 Ko
-msedgewebview2.exe            9856 Console                    1    39ÿ288 Ko
+msedgewebview2.exe            9828 Console                    1    59ÿ296 Ko
+msedgewebview2.exe            9856 Console                    1    39ÿ300 Ko
 msedgewebview2.exe            9936 Console                    1    20ÿ876 Ko
-msedgewebview2.exe           10100 Console                    1   107ÿ616 Ko
+msedgewebview2.exe           10100 Console                    1   107ÿ628 Ko
 backgroundTaskHost.exe       10576 Console                    1     2ÿ412 Ko
-ctfmon.exe                   10308 Console                    1    36ÿ508 Ko
-PhoneExperienceHost.exe      10832 Console                    1   172ÿ412 Ko
-smartscreen.exe               5976 Console                    1    13ÿ284 Ko
-RtkAudUService64.exe          5896 Console                    1    18ÿ296 Ko
-svchost.exe                  11260 Services                   0    22ÿ540 Ko
-opera.exe                     2664 Console                    1   270ÿ784 Ko
-svchost.exe                   2680 Services                   0    14ÿ228 Ko
-opera_crashreporter.exe       3248 Console                    1    10ÿ224 Ko
-opera.exe                     1944 Console                    1   256ÿ228 Ko
-opera.exe                     1900 Console                    1    53ÿ976 Ko
-opera.exe                    11292 Console                    1    24ÿ144 Ko
-opera.exe                    11392 Console                    1   103ÿ968 Ko
+ctfmon.exe                   10308 Console                    1    36ÿ680 Ko
+PhoneExperienceHost.exe      10832 Console                    1   171ÿ988 Ko
+smartscreen.exe               5976 Console                    1    13ÿ328 Ko
+RtkAudUService64.exe          5896 Console                    1    18ÿ260 Ko
+svchost.exe                  11260 Services                   0    49ÿ832 Ko
+opera.exe                     2664 Console                    1   270ÿ888 Ko
+svchost.exe                   2680 Services                   0    14ÿ300 Ko
+opera_crashreporter.exe       3248 Console                    1    10ÿ240 Ko
+opera.exe                     1944 Console                    1   257ÿ428 Ko
+opera.exe                     1900 Console                    1    53ÿ928 Ko
+opera.exe                    11292 Console                    1    24ÿ184 Ko
+opera.exe                    11392 Console                    1   104ÿ276 Ko
 opera.exe                    11424 Console                    1    59ÿ900 Ko
 opera.exe                    11472 Console                    1    79ÿ220 Ko
-opera.exe                    11736 Console                    1   124ÿ040 Ko
-opera.exe                    11752 Console                    1   113ÿ956 Ko
+opera.exe                    11736 Console                    1   124ÿ048 Ko
+opera.exe                    11752 Console                    1   114ÿ000 Ko
 opera.exe                    11840 Console                    1    69ÿ228 Ko
-opera.exe                    12080 Console                    1    75ÿ572 Ko
-opera.exe                    12124 Console                    1    90ÿ032 Ko
+opera.exe                    12080 Console                    1    75ÿ592 Ko
+opera.exe                    12124 Console                    1    90ÿ040 Ko
 opera.exe                    12164 Console                    1    71ÿ584 Ko
-opera.exe                    11744 Console                    1    24ÿ980 Ko
+opera.exe                    11744 Console                    1    24ÿ960 Ko
 opera.exe                    12352 Console                    1    86ÿ840 Ko
-opera.exe                    13068 Console                    1    86ÿ884 Ko
-opera.exe                    13216 Console                    1   126ÿ220 Ko
-opera.exe                     7404 Console                    1   107ÿ876 Ko
-opera.exe                    12688 Console                    1    20ÿ392 Ko
-opera.exe                    12748 Console                    1   114ÿ332 Ko
+opera.exe                    13068 Console                    1    86ÿ856 Ko
+opera.exe                    13216 Console                    1   126ÿ236 Ko
+opera.exe                     7404 Console                    1   107ÿ928 Ko
+opera.exe                    12748 Console                    1   114ÿ328 Ko
 opera.exe                    12920 Console                    1   185ÿ552 Ko
-opera.exe                    13024 Console                    1   218ÿ848 Ko
-SecurityHealthService.exe    14124 Services                   0    27ÿ320 Ko
+opera.exe                    13024 Console                    1   219ÿ132 Ko
+SecurityHealthService.exe    14124 Services                   0    27ÿ488 Ko
 MpCmdRun.exe                 14264 Services                   0    17ÿ452 Ko
-taskhostw.exe                 3900 Console                    1    22ÿ520 Ko
-svchost.exe                  13660 Services                   0    12ÿ628 Ko
+taskhostw.exe                 3900 Console                    1    22ÿ772 Ko
+svchost.exe                  13660 Services                   0    12ÿ640 Ko
 keylogger.exe                 3792 Console                    1     8ÿ228 Ko
-keylogger.exe                 2172 Console                    1    77ÿ532 Ko
-Taskmgr.exe                   2040 Console                    1   154ÿ424 Ko
-svchost.exe                  13776 Services                   0    22ÿ932 Ko
-svchost.exe                  13004 Services                   0     9ÿ144 Ko
-svchost.exe                   3444 Services                   0    15ÿ092 Ko
-svchost.exe                  11000 Services                   0    18ÿ400 Ko
-svchost.exe                  10772 Services                   0    13ÿ828 Ko
-svchost.exe                  10564 Console                    1    16ÿ356 Ko
-opera.exe                     3268 Console                    1   129ÿ268 Ko
-opera.exe                     5524 Console                    1   251ÿ892 Ko
-opera.exe                    14304 Console                    1    32ÿ252 Ko
-opera.exe                     6408 Console                    1    35ÿ224 Ko
-SystemSettings.exe            7520 Console                    1   172ÿ892 Ko
-ApplicationFrameHost.exe      3604 Console                    1    63ÿ036 Ko
-svchost.exe                   9976 Console                    1    16ÿ740 Ko
-svchost.exe                   2928 Services                   0     9ÿ944 Ko
-svchost.exe                  13424 Services                   0    16ÿ804 Ko
-SecHealthUI.exe               7720 Console                    1   100ÿ044 Ko
-SecurityHealthHost.exe        6424 Console                    1    12ÿ900 Ko
-svchost.exe                  14284 Services                   0    15ÿ912 Ko
-svchost.exe                   3348 Services                   0    11ÿ952 Ko
-SearchProtocolHost.exe       13912 Services                   0    16ÿ600 Ko
-SearchFilterHost.exe          3208 Services                   0    11ÿ876 Ko
-WmiPrvSE.exe                 11388 Services                   0    39ÿ284 Ko
-svchost.exe                  13472 Services                   0    13ÿ428 Ko
-WmiPrvSE.exe                  2672 Services                   0    12ÿ540 Ko
-TrustedInstaller.exe          5092 Services                   0    10ÿ088 Ko
-TiWorker.exe                  9888 Services                   0    19ÿ736 Ko
-svchost.exe                   8968 Services                   0    33ÿ968 Ko
+keylogger.exe                 2172 Console                    1    77ÿ536 Ko
+Taskmgr.exe                   2040 Console                    1   154ÿ948 Ko
+svchost.exe                  13776 Services                   0    22ÿ948 Ko
+svchost.exe                   3444 Services                   0    15ÿ080 Ko
+svchost.exe                  11000 Services                   0    18ÿ356 Ko
+svchost.exe                  10772 Services                   0    13ÿ848 Ko
+svchost.exe                  10564 Console                    1    16ÿ328 Ko
+opera.exe                     3268 Console                    1   129ÿ216 Ko
+opera.exe                     5524 Console                    1   268ÿ892 Ko
+opera.exe                    14304 Console                    1    32ÿ388 Ko
+opera.exe                     6408 Console                    1    35ÿ172 Ko
+SystemSettings.exe            7520 Console                    1   172ÿ880 Ko
+ApplicationFrameHost.exe      3604 Console                    1    63ÿ040 Ko
+svchost.exe                   9976 Console                    1    16ÿ788 Ko
+svchost.exe                   2928 Services                   0     9ÿ928 Ko
+svchost.exe                  13424 Services                   0    16ÿ884 Ko
+SecHealthUI.exe               7720 Console                    1   100ÿ052 Ko
+SecurityHealthHost.exe        6424 Console                    1    12ÿ872 Ko
+svchost.exe                  14284 Services                   0    16ÿ416 Ko
+svchost.exe                   3348 Services                   0    11ÿ956 Ko
+SearchProtocolHost.exe       13912 Services                   0    15ÿ404 Ko
+SearchFilterHost.exe          3208 Services                   0    11ÿ652 Ko
+WmiPrvSE.exe                 11388 Services                   0    40ÿ548 Ko
+svchost.exe                  13472 Services                   0    13ÿ480 Ko
+WmiPrvSE.exe                  2672 Services                   0    12ÿ536 Ko
+TrustedInstaller.exe          5092 Services                   0    10ÿ272 Ko
+TiWorker.exe                  9888 Services                   0    21ÿ016 Ko
+svchost.exe                   8968 Services                   0    34ÿ116 Ko
 MicrosoftEdgeUpdate.exe      11244 Services                   0     2ÿ276 Ko
-keylogger.exe                10984 Console                    1    79ÿ292 Ko
-SearchFilterHost.exe         12492 Services                   0    12ÿ992 Ko
-keylogger.exe                 1096 Console                    1    79ÿ156 Ko
-keylogger.exe                 4316 Console                    1    79ÿ232 Ko
-keylogger.exe                11516 Console                    1    78ÿ400 Ko
-keylogger.exe                 4900 Console                    1    78ÿ268 Ko
-cmd.exe                      13664 Console                    1     4ÿ892 Ko
-conhost.exe                   8152 Console                    1     9ÿ584 Ko
-NETSTAT.EXE                  10436 Console                    1     6ÿ996 Ko
-svchost.exe                   2768 Services                   0     8ÿ728 Ko
-keylogger.exe                14108 Console                    1    78ÿ280 Ko
-cmd.exe                      11972 Console                    1     4ÿ896 Ko
-conhost.exe                   7680 Console                    1     9ÿ540 Ko
-NETSTAT.EXE                  12224 Console                    1     6ÿ996 Ko
-keylogger.exe                 9156 Console                    1    78ÿ260 Ko
-cmd.exe                      11728 Console                    1     4ÿ896 Ko
-conhost.exe                  13760 Console                    1     9ÿ572 Ko
-NETSTAT.EXE                  13028 Console                    1     6ÿ996 Ko
-cmd.exe                       6184 Console                    1     4ÿ944 Ko
-conhost.exe                   8440 Console                    1     9ÿ580 Ko
-tasklist.exe                  4488 Console                    1    11ÿ632 Ko
+keylogger.exe                10984 Console                    1    79ÿ300 Ko
+SearchFilterHost.exe         12492 Services                   0    11ÿ992 Ko
+keylogger.exe                 1096 Console                    1    79ÿ172 Ko
+keylogger.exe                 4316 Console                    1    79ÿ240 Ko
+keylogger.exe                11516 Console                    1    79ÿ404 Ko
+svchost.exe                   2768 Services                   0     8ÿ688 Ko
+keylogger.exe                13788 Console                    1    78ÿ284 Ko
+keylogger.exe                10664 Console                    1    78ÿ368 Ko
+keylogger.exe                 7372 Console                    1    78ÿ584 Ko
+cmd.exe                       7896 Console                    1     4ÿ884 Ko
+conhost.exe                   7604 Console                    1     9ÿ584 Ko
+NETSTAT.EXE                   7780 Console                    1     6ÿ988 Ko
+cmd.exe                      13944 Console                    1     4ÿ884 Ko
+conhost.exe                   8488 Console                    1     9ÿ580 Ko
+NETSTAT.EXE                   8316 Console                    1     7ÿ000 Ko
+keylogger.exe                 4944 Console                    1    78ÿ160 Ko
+keylogger.exe                14248 Console                    1    78ÿ452 Ko
+cmd.exe                       1864 Console                    1     4ÿ884 Ko
+conhost.exe                   2104 Console                    1     9ÿ584 Ko
+NETSTAT.EXE                  11200 Console                    1     6ÿ972 Ko
+cmd.exe                       8124 Console                    1     4ÿ900 Ko
+conhost.exe                  13996 Console                    1     9ÿ560 Ko
+NETSTAT.EXE                  12756 Console                    1     7ÿ012 Ko
+keylogger.exe                10436 Console                    1    78ÿ252 Ko
+cmd.exe                       2088 Console                    1     4ÿ896 Ko
+conhost.exe                  14004 Console                    1     9ÿ596 Ko
+NETSTAT.EXE                   6388 Console                    1     7ÿ004 Ko
+MpCmdRun.exe                 14012 Services                   0    12ÿ188 Ko
+conhost.exe                    340 Services                   0    10ÿ756 Ko
+MpCmdRun.exe                 12336 Services                   0    16ÿ192 Ko
+conhost.exe                   7060 Services                   0    10ÿ752 Ko
+cmd.exe                       6112 Console                    1     4ÿ952 Ko
+conhost.exe                  13636 Console                    1     9ÿ620 Ko
+tasklist.exe                  7988 Console                    1    11ÿ620 Ko
 
 SERVICE_NAME: AppIDSvc
 DISPLAY_NAME: Identit‚ de l'application
@@ -569,16 +579,6 @@ DISPLAY_NAME: Gaming Services
         CHECKPOINT         : 0x0
         WAIT_HINT          : 0x0
 
-SERVICE_NAME: gpsvc
-DISPLAY_NAME: Client de strat‚gie de groupe
-        TYPE               : 10  WIN32_OWN_PROCESS  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_PRESHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
 SERVICE_NAME: hidserv
 DISPLAY_NAME: Service du p‚riph‚rique d'interface utilisateur
         TYPE               : 30  WIN32  
@@ -614,16 +614,6 @@ DISPLAY_NAME: Installation du service Microsoft Store
         TYPE               : 10  WIN32_OWN_PROCESS  
         STATE              : 4  RUNNING 
                                 (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-        WIN32_EXIT_CODE    : 0  (0x0)
-        SERVICE_EXIT_CODE  : 0  (0x0)
-        CHECKPOINT         : 0x0
-        WAIT_HINT          : 0x0
-
-SERVICE_NAME: InventorySvc
-DISPLAY_NAME: Service d'Appraisal inventaire et compatibilit‚
-        TYPE               : 30  WIN32  
-        STATE              : 4  RUNNING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
         WIN32_EXIT_CODE    : 0  (0x0)
         SERVICE_EXIT_CODE  : 0  (0x0)
         CHECKPOINT         : 0x0
